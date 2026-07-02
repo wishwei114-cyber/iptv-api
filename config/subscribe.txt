@@ -1,11 +1,11 @@
-# https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-# https://raw.githubusercontent.com/FongMi/TV/main/keep/iptv.txt
-# https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://raw.githubusercontent.com/FongMi/TV/main/keep/iptv.txt
+https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 # === 上海地方台及五星体育专属优质源 ===
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-# http://112.25.49.23:8000/live/wxty_sub.m3u8
-# https://raw.githubusercontent.com/iptv-org/iptv/master/channels/cn.m3u
-# https://raw.githubusercontent.com/Guovern/TV-Auto-Update/main/output/result.txt
+http://112.25.49.23:8000/live/wxty_sub.m3u8
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/cn.m3u
+https://raw.githubusercontent.com/Guovern/TV-Auto-Update/main/output/result.txt
 
 [WHITELIST]
