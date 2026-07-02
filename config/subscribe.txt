@@ -1,13 +1,11 @@
 # === 1. 范明明 高清IPV6聚合源（Actions 测速极快，包含 CCTV 及各省卫视） ===
+# === 2. YueChan 长期稳定维护源（Actions 兼容性极好，海外节点不报 403） ===
+# === 3. 肥羊 官方大厂稳定 CDN 聚合源（包含央视、卫视，节点速度极高） ===
+# === 4. 备用多线纯净聚合源（Actions 抓取通过率高） ===
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-# === 2. YueChan 长期稳定维护源（Actions 兼容性极好，海外节点不报 403） ===
-https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-
-# === 3. 肥羊 官方大厂稳定 CDN 聚合源（包含央视、卫视，节点速度极高） ===
-https://raw.githubusercontent.com/FongMi/TV/main/keep/iptv.txt
-
-# === 4. 备用多线纯净聚合源（Actions 抓取通过率高） ===
-https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+# https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+# https://raw.githubusercontent.com/FongMi/TV/main/keep/iptv.txt
+# https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 
 [WHITELIST]
