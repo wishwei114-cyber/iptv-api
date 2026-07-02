@@ -1,4 +1,6 @@
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-https://m3u.fanmingming.com/v6.m3u
+
+# https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+# https://m3u.fanmingming.com/v6.m3u
+
 [WHITELIST]
