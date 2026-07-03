@@ -1,12 +1,10 @@
 # === 上海地方台及五星体育专属优质源 ===
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-# https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-# https://raw.githubusercontent.com/FongMi/TV/main/keep/iptv.txt
-# https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
-# http://112.25.49.23:8000/live/wxty_sub.m3u8
-# https://raw.githubusercontent.com/iptv-org/iptv/master/channels/cn.m3u
-# https://raw.githubusercontent.com/Guovern/TV-Auto-Update/main/output/result.txt
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://iptv-org.github.io/iptv/index.m3u
+https://php.946985.filegear-sg.me/jackTV.m3u
+https://garyshare.sharewithyou.dpdns.org/mylist.m3u
 
 [WHITELIST]
 五星体育,https://live.fanmingming.com/tv/m3u/ipv6.m3u
