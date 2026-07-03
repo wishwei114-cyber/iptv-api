@@ -1,57 +1,3 @@
-CCTV13,http://101.35.240.114:88/live.php?id=CCTV13
-CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-广西卫视,rtmp://live.gxrb.com.cn/hls/a23
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-春晚1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-春晚1986,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-春晚1987,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-春晚1988,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-春晚1989,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-春晚1990,https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
-春晚1991,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-春晚1993,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-春晚1994,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-春晚1995,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-春晚1996,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-春晚1999,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-春晚2000,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-春晚2001,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-春晚2002,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-春晚2003,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-春晚2004,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-春晚2005,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-春晚2006,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-春晚2007,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-春晚2008,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-春晚2009,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-春晚2010,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-春晚2011,https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-春晚2012,https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
-春晚2013,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-春晚2014,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-春晚2015,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-春晚2016,https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
-春晚2017,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-春晚2018,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-春晚2019,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-春晚2020,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-春晚2021,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-春晚2022,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-春晚2026,https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
 CCTV-7国防军事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
 CCTV-8电视剧,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
 CCTV-9纪录,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
@@ -61,7 +7,6 @@ CCTV-12社会与法,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PL
 CCTV-13新闻,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
 CCTV-14少儿,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
 CCTV-15音乐,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
-CCTV-16奥林匹克,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
 CCTV-17农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
 辽宁卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 黑龙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -2145,10 +2090,8 @@ CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHA
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV-8K (1080p),http://192.151.150.154/live/cctv8k.m3u8
 CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
 CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
@@ -2157,7 +2100,6 @@ CCTV-13 (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
 CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
-CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
@@ -6608,96 +6550,187 @@ Novelisima,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 Novo Tempo (720p),https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 Now 14 (1080p),https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 NOW 70's (720p),https://jmp2.uk/plu-64c37e710e086a0009e824ab.m3u8
+注意事项,https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 NOW 70s (720p),https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+世界杯4K回放-开幕式&揭幕战_2026-06-12 01:25:00,http://82.156.243.185:34567/xhs/4459820
 Now 70s (720p),https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
+世界杯4K回放-韩国vs捷克_2026-06-12 09:30:00,http://82.156.243.185:34567/xhs/4460938
 Now 80's (720p),https://jmp2.uk/plu-6490254fd2c47c00083a5743.m3u8
+世界杯4K回放-加拿大vs波黑_2026-06-13 01:25:00,http://82.156.243.185:34567/xhs/4459824
 NOW 80s (1080p),https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+世界杯4K回放-美国vs巴拉圭_2026-06-13 07:30:00,http://82.156.243.185:34567/xhs/4459827
 Now 80s (1080p),https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+世界杯4K回放-卡塔尔vs瑞士_2026-06-14 02:30:00,http://82.156.243.185:34567/xhs/4460941
 NOW 90s00s (1080p),https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+世界杯4K回放-巴西vs摩洛哥_2026-06-14 05:30:00,http://82.156.243.185:34567/xhs/4460910
 NOW Rock (1080p),https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+世界杯4K回放-海地vs苏格兰_2026-06-14 08:30:00,http://82.156.243.185:34567/xhs/4460944
 NOW Rock (1080p),https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+世界杯4K回放-澳大利亚vs土耳其_2026-06-14 11:30:00,http://82.156.243.185:34567/xhs/4460947
 NOW TV (720p),https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+世界杯4K回放-德国vs库拉索_2026-06-15 00:30:00,http://82.156.243.185:34567/xhs/4460914
 Now TV 102.3FM Edmonton (CKNO-FM) (616p),https://videostream.jpbgdigital.com/NOWTV.m3u8
+世界杯4K回放-荷兰vs日本_2026-06-15 03:30:00,http://82.156.243.185:34567/xhs/4460917
 NowMedia Television (1080p),https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
+世界杯4K回放-科特迪瓦vs厄瓜多尔_2026-06-15 06:30:00,http://82.156.243.185:34567/xhs/4460950
 NowMedia Television Spanish (1080p),https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+世界杯4K回放-瑞典vs突尼斯_2026-06-15 09:30:00,http://82.156.243.185:34567/xhs/4460953
 NPC Rádio e TV (720p),https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
+世界杯4K回放-西班牙vs佛得角_2026-06-15 23:30:00,http://82.156.243.185:34567/xhs/4460923
 NRB TV (480p),https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+世界杯4K回放-比利时vs埃及_2026-06-16 02:30:00,http://82.156.243.185:34567/xhs/4460920
 NRG 91 (720p) [Not 24/7],http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+世界杯4K回放-沙特阿拉伯vs乌拉圭_2026-06-16 05:30:00,http://82.156.243.185:34567/xhs/4460959
 NRJ Hits,https://test.946985.filegear-sg.me/proxy/a23981548880f405
+世界杯4K回放-伊朗vs新西兰_2026-06-16 08:30:00,http://82.156.243.185:34567/xhs/4460956
 NRK 1 (1080i) [Geo-blocked],https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
+世界杯4K回放-法国vs塞内加尔_2026-06-17 02:30:00,http://82.156.243.185:34567/xhs/4460926
 NRK 2 (1080i) [Geo-blocked],https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
+世界杯4K回放-伊拉克vs挪威_2026-06-17 05:30:00,http://82.156.243.185:34567/xhs/4460967
 NRK 3 (1080i) [Geo-blocked],https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
+世界杯4K回放-阿根廷vs阿尔及利亚_2026-06-17 08:30:00,http://82.156.243.185:34567/xhs/4460929
 NRK Super (1080i) [Geo-blocked],https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
+世界杯4K回放-奥地利vs约旦_2026-06-17 11:30:00,http://82.156.243.185:34567/xhs/4460970
 NRK Tegnspråk (1080i) [Geo-blocked],https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8
+世界杯4K回放-葡萄牙vs刚果民主共和国_2026-06-18 00:30:00,http://82.156.243.185:34567/xhs/4460932
 NRT TV (720p) [Not 24/7],https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+世界杯4K回放-英格兰vs克罗地亚_2026-06-18 03:30:00,http://82.156.243.185:34567/xhs/4460935
 NRWision (1080p),https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+世界杯4K回放-加纳vs巴拿马_2026-06-18 06:30:00,http://82.156.243.185:34567/xhs/4460976
 NS Home Shopping (720p),https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+世界杯4K回放-乌兹别克斯坦vs哥伦比亚_2026-06-18 09:30:00,http://82.156.243.185:34567/xhs/4460973
 NS Shop Plus (720p),https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+世界杯4K回放-捷克vs南非_2026-06-18 23:30:00,http://82.156.243.185:34567/xhs/4460939
 NSC+ (720p),https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
+世界杯4K回放-瑞士vs波黑_2026-06-19 02:30:00,http://82.156.243.185:34567/xhs/4460942
 NST (576p),https://vod.tuva.ru/nst/index.m3u8
+世界杯4K回放-加拿大vs卡塔尔_2026-06-19 05:30:00,http://82.156.243.185:34567/xhs/4459825
 NSTV (1080p),https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
+世界杯4K回放-墨西哥vs韩国_2026-06-19 08:30:00,http://82.156.243.185:34567/xhs/4459821
 NTA International (576p) [Not 24/7],https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+世界杯4K回放-美国vs澳大利亚_2026-06-20 02:30:00,http://82.156.243.185:34567/xhs/4459828
 NTC TV (720p),https://galaxyott.live/hls/ntv.m3u8
+世界杯4K回放-苏格兰vs摩洛哥_2026-06-20 05:30:00,http://82.156.243.185:34567/xhs/4460945
 NTD TV (1080p),https://ntd02.akamaized.net/HD-NY/index.m3u8
+世界杯4K回放-巴西vs海地_2026-06-20 08:10:00,http://82.156.243.185:34567/xhs/4460911
 NTD TV Asia-Pacific,https://live.ntdtv.com/aplive200/playlist.m3u8
+世界杯4K回放-土耳其vs巴拉圭_2026-06-20 10:45:00,http://82.156.243.185:34567/xhs/4460948
 NTD TV Canada,https://live.ntdtv.com/mllive860/playlist.m3u8
+世界杯4K回放-荷兰vs瑞典_2026-06-21 00:30:00,http://82.156.243.185:34567/xhs/4460918
 NTD TV Canada West,https://live.ntdtv.com/cwlive220/playlist.m3u8
+世界杯4K回放-德国vs科特迪瓦_2026-06-21 03:30:00,http://82.156.243.185:34567/xhs/4460915
 NTD TV China,https://live.ntdtv.com/cnlive900/playlist.m3u8
+世界杯4K回放-厄瓜多尔vs库拉索_2026-06-21 07:30:00,http://82.156.243.185:34567/xhs/4460951
 NTD TV English (1080p),https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
+世界杯4K回放-突尼斯vs日本_2026-06-21 11:30:00,http://82.156.243.185:34567/xhs/4460954
 NTD TV English UK (1080p),https://ntd02.akamaized.net/NTD-UK/index.m3u8
+世界杯4K回放-西班牙vs沙特阿拉伯_2026-06-21 23:30:00,http://82.156.243.185:34567/xhs/4460924
 NTD TV West,https://live.ntdtv.com/uwlive990/playlist.m3u8
+世界杯4K回放-比利时vs伊朗_2026-06-22 02:30:00,http://82.156.243.185:34567/xhs/4460921
 NTN (720p),https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+世界杯4K回放-乌拉圭vs佛得角_2026-06-22 05:30:00,http://82.156.243.185:34567/xhs/4460965
 NTN (1080i),https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+世界杯4K回放-新西兰vs埃及_2026-06-22 08:30:00,http://82.156.243.185:34567/xhs/4460957
 NTN24 (576p),http://181.78.8.199:8000/play/a0a6/index.m3u8
+世界杯4K回放-阿根廷vs奥地利_2026-06-23 00:30:00,http://82.156.243.185:34567/xhs/4460930
 NTV (1080p),https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+世界杯4K回放-法国vs伊拉克_2026-06-23 04:30:00,http://82.156.243.185:34567/xhs/4460927
 NTV,https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+世界杯4K回放-挪威vs塞内加尔_2026-06-23 07:30:00,http://82.156.243.185:34567/xhs/4460968
 NTV,http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
+世界杯4K回放-约旦vs阿尔及利亚_2026-06-23 10:30:00,http://82.156.243.185:34567/xhs/4460971
 NTV,https://sstv.ssplay.mv/hls/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
+世界杯4K回放-葡萄牙vs乌兹别克斯坦_2026-06-24 00:30:00,http://82.156.243.185:34567/xhs/4460933
 NTV (720p),https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8
+世界杯4K回放-英格兰vs加纳_2026-06-24 03:30:00,http://82.156.243.185:34567/xhs/4460936
 NTV (576p),http://94.230.128.107:8080/HTB/index.m3u8
+世界杯4K回放-巴拿马vs克罗地亚_2026-06-24 06:30:00,http://82.156.243.185:34567/xhs/4460977
 NTV (720p) [Not 24/7],https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+世界杯4K回放-哥伦比亚vs刚果民主共和国_2026-06-24 09:30:00,http://82.156.243.185:34567/xhs/4460974
 NTV7,https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+世界杯4K回放-瑞士vs加拿大_2026-06-25 02:30:00,http://82.156.243.185:34567/xhs/4459826
 NTV Afrique (1080p) [Not 24/7],https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+世界杯4K回放-波黑vs卡塔尔_2026-06-25 02:30:00,http://82.156.243.185:34567/xhs/4460943
 NTV HD (1080p),https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
+世界杯4K回放-苏格兰vs巴西_2026-06-25 05:30:00,http://82.156.243.185:34567/xhs/4460912
 NTV IC Kakanj (720p),https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
+世界杯4K回放-摩洛哥vs海地_2026-06-25 05:30:00,http://82.156.243.185:34567/xhs/4460946
 NTV Law (576p),http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
+世界杯4K回放-捷克vs墨西哥_2026-06-25 08:30:00,http://82.156.243.185:34567/xhs/4459823
 NTV Mir (576p),http://5.188.159.128:8070/ntvmir_TV/index.m3u8
+世界杯4K回放-南非vs韩国_2026-06-25 08:30:00,http://82.156.243.185:34567/xhs/4460940
 NTV Series (576p),https://cdn-dvr.ntv.ru/th_serial/index.m3u8
+世界杯4K回放-厄瓜多尔vs德国_2026-06-26 03:30:00,http://82.156.243.185:34567/xhs/4460916
 NTV Style (576p),http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
+世界杯4K回放-库拉索vs科特迪瓦_2026-06-26 03:30:00,http://82.156.243.185:34567/xhs/4460952
 NTV Telugu (1080p),https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
+世界杯4K回放-突尼斯vs荷兰_2026-06-26 06:30:00,http://82.156.243.185:34567/xhs/4460919
 NTV+,https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+世界杯4K回放-日本vs瑞典_2026-06-26 06:30:00,http://82.156.243.185:34567/xhs/4460955
 NTV-Hit (1080p),https://cdn-dvr.ntv.ru/th_hit/index.m3u8
+世界杯4K回放-土耳其vs美国_2026-06-26 09:30:00,http://82.156.243.185:34567/xhs/4459829
 NUBAR Plus TV (720p),http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
+世界杯4K回放-巴拉圭vs澳大利亚_2026-06-26 09:30:00,http://82.156.243.185:34567/xhs/4460949
 Nublevision (720p),https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
+世界杯4K回放-挪威vs法国_2026-06-27 02:30:00,http://82.156.243.185:34567/xhs/4460928
 Nuestra Imagen TV,https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
+世界杯4K回放-塞内加尔vs伊拉克_2026-06-27 02:30:00,http://82.156.243.185:34567/xhs/4460969
 Nuestra Tele Internacional (576p),http://181.78.8.199:8000/play/a0a8/index.m3u8
+世界杯4K回放-乌拉圭vs西班牙_2026-06-27 07:30:00,http://82.156.243.185:34567/xhs/4460925
 Nueva Vida TV (720p),https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
+世界杯4K回放-佛得角vs沙特阿拉伯_2026-06-27 07:30:00,http://82.156.243.185:34567/xhs/4460966
 Nueva Vision 14 (1080p) [Not 24/7],https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
+世界杯4K回放-新西兰vs比利时_2026-06-27 10:30:00,http://82.156.243.185:34567/xhs/4460922
 Nueve TV San Luís Potosí (720p),https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+世界杯4K回放-埃及vs伊朗_2026-06-27 10:30:00,http://82.156.243.185:34567/xhs/4460958
 Nuevo Tiempo (720p) [Not 24/7],https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+世界杯4K回放-巴拿马vs英格兰_2026-06-28 04:30:00,http://82.156.243.185:34567/xhs/4460937
 Nuevo Tiempo TV,https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
+世界杯4K回放-克罗地亚vs加纳_2026-06-28 04:30:00,http://82.156.243.185:34567/xhs/4460978
 Ñuka TV (720p) [Not 24/7],https://cloudvideo.servers10.com:8081/8118/index.m3u8
+世界杯4K回放-哥伦比亚vs葡萄牙_2026-06-28 07:15:00,http://82.156.243.185:34567/xhs/4460934
 Numb3rs,https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
+世界杯4K回放-刚果民主共和国vs乌兹别克斯坦_2026-06-28 07:15:00,http://82.156.243.185:34567/xhs/4460975
 Numb3rs,https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
+世界杯4K回放-约旦vs阿根廷_2026-06-28 09:45:00,http://82.156.243.185:34567/xhs/4460931
 Number 1 Ask (720p),https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+世界杯4K回放-阿尔及利亚vs奥地利_2026-06-28 09:45:00,http://82.156.243.185:34567/xhs/4460972
 Number 1 Damar (720p),https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+世界杯4K回放-南非vs加拿大_2026-06-29 02:00:00,http://82.156.243.185:34567/xhs/4459717
 Number 1 Dance (720p),https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+世界杯4K回放-巴西vs日本_2026-06-30 00:00:00,http://82.156.243.185:34567/xhs/4459720
 Number 1 Türk (720p),https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+世界杯4K回放-德国vs巴拉圭_2026-06-30 03:30:00,http://82.156.243.185:34567/xhs/4459718
 Number 1 TV (720p),https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+世界杯4K回放-荷兰vs摩洛哥_2026-06-30 08:00:00,http://82.156.243.185:34567/xhs/4459719
 Numbers,https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
+世界杯4K回放-科特迪瓦vs挪威_2026-07-01 00:00:00,http://82.156.243.185:34567/xhs/4459722
 Numbers,https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
+世界杯4K回放-法国vs瑞典_2026-07-01 04:00:00,http://82.156.243.185:34567/xhs/4459721
 Numerica TV (1080p),https://tnt-television.com/NUMERICA/index.m3u8
+世界杯4K回放-墨西哥vs厄瓜多尔_2026-07-01 08:50:00,http://82.156.243.185:34567/xhs/4459723
 Números,https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
+世界杯4K回放-英格兰vs刚果民主共和国_2026-07-01 23:00:00,http://82.156.243.185:34567/xhs/4459724
 Nurafshon TV,https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+世界杯4K回放-比利时vs塞内加尔_2026-07-02 03:30:00,http://82.156.243.185:34567/xhs/4459726
 Nusantara TV (1080p),https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+世界杯4K回放-美国vs波黑_2026-07-02 07:30:00,http://82.156.243.185:34567/xhs/4459725
 Nuta TV,http://78.130.250.2:8023/play/a03r/index.m3u8
+世界杯4K回放-西班牙vs奥地利_2026-07-03 02:00:00,http://82.156.243.185:34567/xhs/4459728
 NuView TV (360p),https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
+世界杯4K回放-葡萄牙vs克罗地亚_2026-07-03 06:00:00,http://82.156.243.185:34567/xhs/4459727
 NW Economie (576p),https://hls.newworldtv.com/nw-economie/video/live.m3u8
+16vos de Final: España v. Austria_2026-07-03 02:40:00_1783017600000,https://cdn.99998888.cc/event/10a8d645-3718-3b68-be71-bd877d632fb6?prefix=https://cdn.99998888.cc
 NW Info 2 EN (576p),https://hls.newworldtv.com/nw-info-2/video/live.m3u8
+16vos de Final: Portugal v. Croacia_2026-07-03 05:10:00_1783026600000,https://cdn.99998888.cc/event/51d06c5c-1394-3d2b-9633-ac2787e10f96?prefix=https://cdn.99998888.cc
 NW Info FR (576p),https://hls.newworldtv.com/nw-info/video/live.m3u8
+16vos de Final: Suiza v. Argelia_2026-07-03 09:10:00_1783041000000,https://cdn.99998888.cc/event/7c89f62b-3676-31e6-9640-637cfcc23127?prefix=https://cdn.99998888.cc
 NW Magazine (576p),https://hls.newworldtv.com/nw-magazine/video/live.m3u8
+16vos de Final: Australia v. Egipto_2026-07-04 01:40:00_1783100400000,https://cdn.99998888.cc/event/4327060a-72c2-343a-823e-26a838f12bc1?prefix=https://cdn.99998888.cc
 NYXT (1080p),https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
+16vos de Final: Argentina v. Cabo Verde_2026-07-04 04:10:00_1783109400000,https://cdn.99998888.cc/event/681dfdcc-8f6b-3d56-a16f-fd4a538921bd?prefix=https://cdn.99998888.cc
 NZK Television (720p),https://eu1.servers10.com:8081/8258/index.m3u8
+16vos de Final: Colombia v. Ghana_2026-07-04 08:10:00_1783123800000,https://cdn.99998888.cc/event/68d6c109-2275-3c0c-afae-814defe21c9e?prefix=https://cdn.99998888.cc
 O Dia TV,https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 O Encantador de Cães,https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 O Homem que veio do Céu,https://jmp2.uk/plu-62052d3b4eeb740007fbe125.m3u8
