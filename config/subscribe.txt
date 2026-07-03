@@ -1,6 +1,7 @@
 # === 上海地方台及五星体育专属优质源 ===
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 https://iptv-org.github.io/iptv/index.m3u
+4K高码率世界杯：http://82.156.243.185:33389/fwc.m3u
 
 # https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 # https://php.946985.filegear-sg.me/jackTV.m3u
