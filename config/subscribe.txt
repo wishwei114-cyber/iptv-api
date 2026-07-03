@@ -1,24 +1,24 @@
-
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 https://iptv-org.github.io/iptv/index.m3u
 4K高码率世界杯：http://82.156.243.185:33389/fwc.m3u
 五星体育,https://live.fanmingming.com/tv/m3u/ipv6.m3u
-CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
-CCTV5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-CCTV16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
-CCTV5,https://cdn16.163189.xyz/163189/cctv5-2
-CCTV5+,https://cdn16.163189.xyz/163189/cctv5p-2
-CCTV16,https://cdn16.163189.xyz/163189/cctv16-2
-广东体育,http://r.jdshipin.com/LiYdg
-澳门体育,http://cdn6.163189.xyz/163189/amty
-五星体育,https://cdn15.163189.xyz/163189/wxty
-咪咕视频4K,http://r.jdshipin.com/ln4xk
-咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
-五星体育,http://192.151.150.154/live/wxtyhd.m3u8
-五星体育,http://111.56.90.5/000000000000/5000000010000017540/1.m3u8?$1M1920x1080
-五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de?$1920x1080
-五星体育,http://58.35.95.16:9898/rtp/233.18.204.58:5140?$1920x1080
-五星体育,http://38.75.136.137:98/gslb/dsd ... 8?auth=testpub&$4M1920x1080
-五星体育,https://bp-livewxtytx.bestv.cn/live/wxty.ts?$1920x1080
+
+# https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
+# https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+# https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
+# https://cdn16.163189.xyz/163189/cctv5-2
+# https://cdn16.163189.xyz/163189/cctv5p-2
+# https://cdn16.163189.xyz/163189/cctv16-2
+# http://r.jdshipin.com/LiYdg
+# http://cdn6.163189.xyz/163189/amty
+# https://cdn15.163189.xyz/163189/wxty
+# http://r.jdshipin.com/ln4xk
+# http://r.jdshipin.com/Lqdwf
+# http://192.151.150.154/live/wxtyhd.m3u8
+# http://111.56.90.5/000000000000/5000000010000017540/1.m3u8?$1M1920x1080
+# https://cdn15.163189.xyz/163189/9c893bb003e1c7de?$1920x1080
+# http://58.35.95.16:9898/rtp/233.18.204.58:5140?$1920x1080
+# http://38.75.136.137:98/gslb/dsd
+# https://bp-livewxtytx.bestv.cn/live/wxty.ts?$1920x1080
 
 [WHITELIST]

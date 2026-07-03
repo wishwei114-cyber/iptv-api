@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-03 13:00:42,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-07-03 13:08:28,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -41,9 +41,9 @@ cctv5p,http://82.156.243.185:36888/av3a/cctv5pn.m3u8
 cctv5p,http://82.156.243.185:36888/av3a/cctv5n.m3u8
 cctv5p,http://82.156.243.185:36888/av3a/cctv5.m3u8
 cctv5p,http://82.156.243.185:36888/av3a/cctv5p.m3u8
+cctv16,http://74.91.26.218:82/live/cctv16hd.m3u8
 cctv16,http://82.156.243.185:36888/av3a/cctv16n.m3u8
 cctv16,http://82.156.243.185:36888/av3a/cctv16.m3u8
-cctv16,http://74.91.26.218:82/live/cctv16hd.m3u8
 cctv4k,http://198.204.240.250:82/live/cctv4k.m3u8
 cctv4k,http://82.156.243.185:36888/av3a/cctv4kn.m3u8
 cctv4k,http://82.156.243.185:36888/av3a/cctv4k.m3u8
@@ -58,9 +58,9 @@ cctv5p-av3a,http://82.156.243.185:36888/av3a/cctv5p.m3u8
 cctv5p-av3a,http://82.156.243.185:36888/av3a/cctv5n.m3u8
 cctv5p-av3a,http://82.156.243.185:36888/av3a/cctv5pn.m3u8
 cctv5p-av3a,http://82.156.243.185:36888/av3a/cctv5.m3u8
+cctv16-av3a,http://74.91.26.218:82/live/cctv16hd.m3u8
 cctv16-av3a,http://82.156.243.185:36888/av3a/cctv16.m3u8
 cctv16-av3a,http://82.156.243.185:36888/av3a/cctv16n.m3u8
-cctv16-av3a,http://74.91.26.218:82/live/cctv16hd.m3u8
 cctv4k-av3a,http://198.204.240.250:82/live/cctv4k.m3u8
 cctv4k-av3a,http://82.156.243.185:36888/av3a/cctv4k.m3u8
 cctv4k-av3a,http://82.156.243.185:36888/av3a/cctv4kn.m3u8
