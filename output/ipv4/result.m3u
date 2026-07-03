@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/wishwei114-cyber/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-03 12:24:39
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-03 12:54:31
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
@@ -96,11 +96,11 @@ http://82.156.243.185:36888/av3a/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="cctv16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv16.png" group-title="☘️体育频道",cctv16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="cctv4k" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4k.png" group-title="☘️体育频道",cctv4k
-http://198.204.240.250:82/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="cctv4k" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4k.png" group-title="☘️体育频道",cctv4k
 http://82.156.243.185:36888/av3a/cctv4kn.m3u8
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="cctv4k" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4k.png" group-title="☘️体育频道",cctv4k
 http://82.156.243.185:36888/av3a/cctv4k.m3u8
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="cctv4k" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4k.png" group-title="☘️体育频道",cctv4k
+http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="cctv8k" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv8k.png" group-title="☘️体育频道",cctv8k
 http://82.156.243.185:36888/av3a/cctv8kn.m3u8
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="cctv8k" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv8k.png" group-title="☘️体育频道",cctv8k
@@ -136,11 +136,11 @@ http://82.156.243.185:36888/av3a/cctv16n.m3u8
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="cctv16-av3a" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv16-av3a.png" group-title="☘️体育频道",cctv16-av3a
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="cctv4k-av3a" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4k-av3a.png" group-title="☘️体育频道",cctv4k-av3a
-http://198.204.240.250:82/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="cctv4k-av3a" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4k-av3a.png" group-title="☘️体育频道",cctv4k-av3a
 http://82.156.243.185:36888/av3a/cctv4k.m3u8
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="cctv4k-av3a" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4k-av3a.png" group-title="☘️体育频道",cctv4k-av3a
 http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="cctv4k-av3a" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4k-av3a.png" group-title="☘️体育频道",cctv4k-av3a
+http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="cctv8k-av3a" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv8k-av3a.png" group-title="☘️体育频道",cctv8k-av3a
 http://82.156.243.185:36888/av3a/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="cctv8k-av3a" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv8k-av3a.png" group-title="☘️体育频道",cctv8k-av3a
