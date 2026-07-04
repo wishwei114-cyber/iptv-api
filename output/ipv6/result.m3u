@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/wishwei114-cyber/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-04 13:26:17
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-05 05:13:00
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视频道",CCTV-5
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="📺央视频道",CETV-1
@@ -35,6 +37,14 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="cctv5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv5.png" group-title="☘️体育频道",cctv5
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="cctv5p" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv5p.png" group-title="☘️体育频道",cctv5p
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="cctv5-av3a" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv5-av3a.png" group-title="☘️体育频道",cctv5-av3a
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="cctv5p-av3a" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv5p-av3a.png" group-title="☘️体育频道",cctv5p-av3a
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="♻️未匹配频道",CCTV-7
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="♻️未匹配频道",CCTV-8
@@ -105,8 +115,6 @@ url
 url
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="🈳无结果频道",CCTV-4
 url
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="🈳无结果频道",CCTV-5
-url
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="🈳无结果频道",CCTV-6
 url
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="🈳无结果频道",香港卫视
@@ -115,19 +123,11 @@ url
 url
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/五星体育.png" group-title="🈳无结果频道",五星体育
 url
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="cctv5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv5.png" group-title="🈳无结果频道",cctv5
-url
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="cctv5p" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv5p.png" group-title="🈳无结果频道",cctv5p
-url
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="cctv16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv16.png" group-title="🈳无结果频道",cctv16
 url
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="cctv4k" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv4k.png" group-title="🈳无结果频道",cctv4k
 url
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="cctv8k" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv8k.png" group-title="🈳无结果频道",cctv8k
-url
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="cctv5-av3a" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv5-av3a.png" group-title="🈳无结果频道",cctv5-av3a
-url
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="cctv5p-av3a" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv5p-av3a.png" group-title="🈳无结果频道",cctv5p-av3a
 url
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="cctv16-av3a" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cctv16-av3a.png" group-title="🈳无结果频道",cctv16-av3a
 url
@@ -23210,4 +23210,14 @@ url
 #EXTINF:-1 tvg-id="8vos de Final: Canadá v. Marruecos_2026-07-05 00:40:00_1783183200000" tvg-name="8vos de Final: Canadá v. Marruecos_2026-07-05 00:40:00_1783183200000" tvg-logo="https://www.xn--rgv465a.top/tvlogo/8vos de Final: Canadá v. Marruecos_2026-07-05 00:40:00_1783183200000.png" group-title="🈳无结果频道",8vos de Final: Canadá v. Marruecos_2026-07-05 00:40:00_1783183200000
 url
 #EXTINF:-1 tvg-id="8vos de Final: Paraguay v. Francia_2026-07-05 03:10:00_1783192200000" tvg-name="8vos de Final: Paraguay v. Francia_2026-07-05 03:10:00_1783192200000" tvg-logo="https://www.xn--rgv465a.top/tvlogo/8vos de Final: Paraguay v. Francia_2026-07-05 03:10:00_1783192200000.png" group-title="🈳无结果频道",8vos de Final: Paraguay v. Francia_2026-07-05 03:10:00_1783192200000
+url
+#EXTINF:-1 tvg-id="世界杯4K回放-哥伦比亚vs加纳_2026-07-04 09:10:00" tvg-name="世界杯4K回放-哥伦比亚vs加纳_2026-07-04 09:10:00" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界杯4K回放-哥伦比亚vs加纳_2026-07-04 09:10:00.png" group-title="🈳无结果频道",世界杯4K回放-哥伦比亚vs加纳_2026-07-04 09:10:00
+url
+#EXTINF:-1 tvg-id="世界杯4K回放-加拿大vs摩洛哥_2026-07-05 00:30:00" tvg-name="世界杯4K回放-加拿大vs摩洛哥_2026-07-05 00:30:00" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界杯4K回放-加拿大vs摩洛哥_2026-07-05 00:30:00.png" group-title="🈳无结果频道",世界杯4K回放-加拿大vs摩洛哥_2026-07-05 00:30:00
+url
+#EXTINF:-1 tvg-id="FussBall TV" tvg-name="FussBall TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FussBall TV.png" group-title="🈳无结果频道",FussBall TV
+url
+#EXTINF:-1 tvg-id="8vos de Final: Brasil v. Noruega_2026-07-06 03:40:00_1783280400000" tvg-name="8vos de Final: Brasil v. Noruega_2026-07-06 03:40:00_1783280400000" tvg-logo="https://www.xn--rgv465a.top/tvlogo/8vos de Final: Brasil v. Noruega_2026-07-06 03:40:00_1783280400000.png" group-title="🈳无结果频道",8vos de Final: Brasil v. Noruega_2026-07-06 03:40:00_1783280400000
+url
+#EXTINF:-1 tvg-id="8vos de Final: México v. Inglaterra_2026-07-06 06:10:00_1783289400000" tvg-name="8vos de Final: México v. Inglaterra_2026-07-06 06:10:00_1783289400000" tvg-logo="https://www.xn--rgv465a.top/tvlogo/8vos de Final: México v. Inglaterra_2026-07-06 06:10:00_1783289400000.png" group-title="🈳无结果频道",8vos de Final: México v. Inglaterra_2026-07-06 06:10:00_1783289400000
 url

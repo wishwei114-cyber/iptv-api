@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-07-04 13:26:17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
+2026-07-05 05:13:00,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
 
 📺央视频道,#genre#
+CCTV-5,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
 CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?
 CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
@@ -23,6 +24,10 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 天津卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 ☘️体育频道,#genre#
+cctv5,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+cctv5p,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+cctv5-av3a,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+cctv5p-av3a,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
 
 ♻️未匹配频道,#genre#
 CCTV-7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
@@ -62,18 +67,13 @@ CCTV-1,url
 CCTV-2,url
 CCTV-3,url
 CCTV-4,url
-CCTV-5,url
 CCTV-6,url
 香港卫视,url
 河南卫视,url
 五星体育,url
-cctv5,url
-cctv5p,url
 cctv16,url
 cctv4k,url
 cctv8k,url
-cctv5-av3a,url
-cctv5p-av3a,url
 cctv16-av3a,url
 cctv4k-av3a,url
 cctv8k-av3a,url
@@ -11615,3 +11615,8 @@ Zylo Todo Novelas (1080p),url
 16vos de Final: Colombia v. Ghana_2026-07-04 08:10:00_1783123800000,url
 8vos de Final: Canadá v. Marruecos_2026-07-05 00:40:00_1783183200000,url
 8vos de Final: Paraguay v. Francia_2026-07-05 03:10:00_1783192200000,url
+世界杯4K回放-哥伦比亚vs加纳_2026-07-04 09:10:00,url
+世界杯4K回放-加拿大vs摩洛哥_2026-07-05 00:30:00,url
+FussBall TV,url
+8vos de Final: Brasil v. Noruega_2026-07-06 03:40:00_1783280400000,url
+8vos de Final: México v. Inglaterra_2026-07-06 06:10:00_1783289400000,url
