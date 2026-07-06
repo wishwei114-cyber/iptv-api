@@ -1,0 +1,7 @@
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
+#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="Apple TV 4K Dolby Vision F1" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/f1.png" group-title="4K杜比视界赛事直播",Apple TV 4K Dolby Vision F1
+https://other.shenniaokongque.top/p/9c0ee747-c6f6-4e07-9b90-23712c1d7b8e
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="普通频道",五星体育
+http://82.156.243.185:54321/kk.php?id=10&smg=1
