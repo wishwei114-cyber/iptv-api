@@ -2,6 +2,7 @@ https://live.fanmingming.com/tv/m3u/ipv6.m3u
 https://iptv-org.github.io/iptv/index.m3u
 五星体育,https://live.fanmingming.com/tv/m3u/ipv6.m3u
 http://82.156.243.185:54321/other.m3u
+https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
 # http://82.156.243.185:33389/fwc.m3u
 # https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u
 # https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u
