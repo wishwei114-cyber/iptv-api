@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-14 05:10:39,http://69.30.245.50/live/cctv1.m3u8
+2026-07-17 05:13:42,http://69.30.245.50/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
@@ -29,18 +29,13 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 天津卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 ☘️体育频道,#genre#
-五星体育,http://82.156.243.185:54321/kk.php?id=10&smg=1
-cctv5,http://82.156.243.185:36888/av3a/cctv5n.m3u8
-cctv5p,http://82.156.243.185:36888/av3a/cctv5pn.m3u8
-cctv16,http://82.156.243.185:36888/av3a/cctv16n.m3u8
+cctv5,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+cctv5p,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+cctv16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
 cctv4k,http://198.204.240.250:82/live/cctv4k.m3u8
-cctv4k,http://82.156.243.185:36888/av3a/cctv4kn.m3u8
 cctv8k,http://192.151.150.154/live/cctv8k.m3u8
-cctv8k,http://82.156.243.185:36888/av3a/cctv8kn.m3u8
-cctv5-av3a,http://82.156.243.185:36888/av3a/cctv5.m3u8
-cctv5p-av3a,http://82.156.243.185:36888/av3a/cctv5p.m3u8
-cctv16-av3a,http://82.156.243.185:36888/av3a/cctv16.m3u8
+cctv5-av3a,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+cctv5p-av3a,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+cctv16-av3a,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
 cctv4k-av3a,http://198.204.240.250:82/live/cctv4k.m3u8
-cctv4k-av3a,http://82.156.243.185:36888/av3a/cctv4k.m3u8
 cctv8k-av3a,http://192.151.150.154/live/cctv8k.m3u8
-cctv8k-av3a,http://82.156.243.185:36888/av3a/cctv8k.m3u8
