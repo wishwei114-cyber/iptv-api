@@ -193,214 +193,6 @@ https://iptv.aibo.lol/live/22.flv
 https://iptv.aibo.lol/live/23.flv
 #EXTINF:-1 tvg-id="世界杯中文多角度24" tvg-name="世界杯中文多角度24" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯中文多角度",世界杯中文多角度24
 https://iptv.aibo.lol/live/24.flv
-#EXTINF:-1 tvg-id="世界杯4K回放-开幕式&揭幕战" tvg-name="世界杯4K回放-开幕式&揭幕战" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190d27h70069ip3a5i0000000000440f3dmm" group-title="世界杯回放",世界杯4K回放-开幕式&揭幕战
-https://iptv.aibo.lol/replay/4459820
-#EXTINF:-1 tvg-id="世界杯4K回放-韩国vs捷克" tvg-name="世界杯4K回放-韩国vs捷克" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190d98u74069ip3a5i000000000040ihhf18" group-title="世界杯回放",世界杯4K回放-韩国vs捷克
-https://iptv.aibo.lol/replay/4460938
-#EXTINF:-1 tvg-id="世界杯4K回放-加拿大vs波黑" tvg-name="世界杯4K回放-加拿大vs波黑" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190deaq6u069ip3a5i0000000000458sdaps" group-title="世界杯回放",世界杯4K回放-加拿大vs波黑
-https://iptv.aibo.lol/replay/4459824
-#EXTINF:-1 tvg-id="世界杯4K回放-美国vs巴拉圭" tvg-name="世界杯4K回放-美国vs巴拉圭" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190dk9p6s0m9ip3a5i000000000041vktia4" group-title="世界杯回放",世界杯4K回放-美国vs巴拉圭
-https://iptv.aibo.lol/replay/4459827
-#EXTINF:-1 tvg-id="世界杯4K回放-卡塔尔vs瑞士" tvg-name="世界杯4K回放-卡塔尔vs瑞士" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190dpson2069ip3a5i0000000000424lkani" group-title="世界杯回放",世界杯4K回放-卡塔尔vs瑞士
-https://iptv.aibo.lol/replay/4460941
-#EXTINF:-1 tvg-id="世界杯4K回放-巴西vs摩洛哥" tvg-name="世界杯4K回放-巴西vs摩洛哥" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190e0mp74069ip3a5i000000000045ta4om4" group-title="世界杯回放",世界杯4K回放-巴西vs摩洛哥
-https://iptv.aibo.lol/replay/4460910
-#EXTINF:-1 tvg-id="世界杯4K回放-海地vs苏格兰" tvg-name="世界杯4K回放-海地vs苏格兰" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190echv6u069ip3a5i000000000044iprei6" group-title="世界杯回放",世界杯4K回放-海地vs苏格兰
-https://iptv.aibo.lol/replay/4460944
-#EXTINF:-1 tvg-id="世界杯4K回放-澳大利亚vs土耳其" tvg-name="世界杯4K回放-澳大利亚vs土耳其" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190eji9n00m9ip3a5i000000000047hp07c0" group-title="世界杯回放",世界杯4K回放-澳大利亚vs土耳其
-https://iptv.aibo.lol/replay/4460947
-#EXTINF:-1 tvg-id="世界杯4K回放-德国vs库拉索" tvg-name="世界杯4K回放-德国vs库拉索" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190eqm672069ip3a5i0000000000460e9jgu" group-title="世界杯回放",世界杯4K回放-德国vs库拉索
-https://iptv.aibo.lol/replay/4460914
-#EXTINF:-1 tvg-id="世界杯4K回放-荷兰vs日本" tvg-name="世界杯4K回放-荷兰vs日本" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190f022n00m9ip3a5i0000000000460ru5nk" group-title="世界杯回放",世界杯4K回放-荷兰vs日本
-https://iptv.aibo.lol/replay/4460917
-#EXTINF:-1 tvg-id="世界杯4K回放-科特迪瓦vs厄瓜多尔" tvg-name="世界杯4K回放-科特迪瓦vs厄瓜多尔" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190f6bln2069ip3a5i00000000004286e37k" group-title="世界杯回放",世界杯4K回放-科特迪瓦vs厄瓜多尔
-https://iptv.aibo.lol/replay/4460950
-#EXTINF:-1 tvg-id="世界杯4K回放-瑞典vs突尼斯" tvg-name="世界杯4K回放-瑞典vs突尼斯" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190fbj970069ip3a5i0000000000404i3ccu" group-title="世界杯回放",世界杯4K回放-瑞典vs突尼斯
-https://iptv.aibo.lol/replay/4460953
-#EXTINF:-1 tvg-id="世界杯4K回放-西班牙vs佛得角" tvg-name="世界杯4K回放-西班牙vs佛得角" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190fgns6s069ip3a5i000000000045j2qmsc" group-title="世界杯回放",世界杯4K回放-西班牙vs佛得角
-https://iptv.aibo.lol/replay/4460923
-#EXTINF:-1 tvg-id="世界杯4K回放-比利时vs埃及" tvg-name="世界杯4K回放-比利时vs埃及" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190flibms069ip3a5i000000000046c7v9cg" group-title="世界杯回放",世界杯4K回放-比利时vs埃及
-https://iptv.aibo.lol/replay/4460920
-#EXTINF:-1 tvg-id="世界杯4K回放-沙特阿拉伯vs乌拉圭" tvg-name="世界杯4K回放-沙特阿拉伯vs乌拉圭" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190frhgmu069ip3a5i000000000046t7lkgm" group-title="世界杯回放",世界杯4K回放-沙特阿拉伯vs乌拉圭
-https://iptv.aibo.lol/replay/4460959
-#EXTINF:-1 tvg-id="世界杯4K回放-伊朗vs新西兰" tvg-name="世界杯4K回放-伊朗vs新西兰" tvg-logo="https://growth-img.xhscdn.com/ditto/104000n032190g6ihms04746ihg" group-title="世界杯回放",世界杯4K回放-伊朗vs新西兰
-https://iptv.aibo.lol/replay/4460956
-#EXTINF:-1 tvg-id="世界杯4K回放-法国vs塞内加尔" tvg-name="世界杯4K回放-法国vs塞内加尔" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190gbogmu0m9ip3a5i000000000046gpr2so" group-title="世界杯回放",世界杯4K回放-法国vs塞内加尔
-https://iptv.aibo.lol/replay/4460926
-#EXTINF:-1 tvg-id="世界杯4K回放-伊拉克vs挪威" tvg-name="世界杯4K回放-伊拉克vs挪威" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190ghrqms069ip3a5i0000000000466fih1s" group-title="世界杯回放",世界杯4K回放-伊拉克vs挪威
-https://iptv.aibo.lol/replay/4460967
-#EXTINF:-1 tvg-id="世界杯4K回放-阿根廷vs阿尔及利亚" tvg-name="世界杯4K回放-阿根廷vs阿尔及利亚" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190gmvvmu069ip3a5i000000000044cmvrv8" group-title="世界杯回放",世界杯4K回放-阿根廷vs阿尔及利亚
-https://iptv.aibo.lol/replay/4460929
-#EXTINF:-1 tvg-id="世界杯4K回放-奥地利vs约旦" tvg-name="世界杯4K回放-奥地利vs约旦" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190grg372069ip3a5i000000000045qemu96" group-title="世界杯回放",世界杯4K回放-奥地利vs约旦
-https://iptv.aibo.lol/replay/4460970
-#EXTINF:-1 tvg-id="世界杯4K回放-葡萄牙vs刚果民主共和国" tvg-name="世界杯4K回放-葡萄牙vs刚果民主共和国" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190h676n2069ip3a5i000000000047ufq9uu" group-title="世界杯回放",世界杯4K回放-葡萄牙vs刚果民主共和国
-https://iptv.aibo.lol/replay/4460932
-#EXTINF:-1 tvg-id="世界杯4K回放-英格兰vs克罗地亚" tvg-name="世界杯4K回放-英格兰vs克罗地亚" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190hbd074769ip3a5i000000000042nif3f8" group-title="世界杯回放",世界杯4K回放-英格兰vs克罗地亚
-https://iptv.aibo.lol/replay/4460935
-#EXTINF:-1 tvg-id="世界杯4K回放-加纳vs巴拿马" tvg-name="世界杯4K回放-加纳vs巴拿马" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190hgmtmu069ip3a5i000000000046gqtmng" group-title="世界杯回放",世界杯4K回放-加纳vs巴拿马
-https://iptv.aibo.lol/replay/4460976
-#EXTINF:-1 tvg-id="世界杯4K回放-乌兹别克斯坦vs哥伦比亚" tvg-name="世界杯4K回放-乌兹别克斯坦vs哥伦比亚" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190hmmoms069ip3a5i000000000046u977pq" group-title="世界杯回放",世界杯4K回放-乌兹别克斯坦vs哥伦比亚
-https://iptv.aibo.lol/replay/4460973
-#EXTINF:-1 tvg-id="世界杯4K回放-捷克vs南非" tvg-name="世界杯4K回放-捷克vs南非" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190ik346u069ip3a5i000000000047g0kht0" group-title="世界杯回放",世界杯4K回放-捷克vs南非
-https://iptv.aibo.lol/replay/4460939
-#EXTINF:-1 tvg-id="世界杯4K回放-瑞士vs波黑" tvg-name="世界杯4K回放-瑞士vs波黑" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321f3erqeno06k0a0d0jpk0000000007jlb0bm" group-title="世界杯回放",世界杯4K回放-瑞士vs波黑
-https://iptv.aibo.lol/replay/4460942
-#EXTINF:-1 tvg-id="世界杯4K回放-加拿大vs卡塔尔" tvg-name="世界杯4K回放-加拿大vs卡塔尔" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321f3f6qa7e06k0a0d0jpk00000000047louli" group-title="世界杯回放",世界杯4K回放-加拿大vs卡塔尔
-https://iptv.aibo.lol/replay/4459825
-#EXTINF:-1 tvg-id="世界杯4K回放-墨西哥vs韩国" tvg-name="世界杯4K回放-墨西哥vs韩国" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321frsjj1na06k77ao0jp40000000002fd8qsm" group-title="世界杯回放",世界杯4K回放-墨西哥vs韩国
-https://iptv.aibo.lol/replay/4459821
-#EXTINF:-1 tvg-id="世界杯4K回放-美国vs澳大利亚" tvg-name="世界杯4K回放-美国vs澳大利亚" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fru3rj7e76k77ao0jp40000000000bf5ab0" group-title="世界杯回放",世界杯4K回放-美国vs澳大利亚
-https://iptv.aibo.lol/replay/4459828
-#EXTINF:-1 tvg-id="世界杯4K回放-苏格兰vs摩洛哥" tvg-name="世界杯4K回放-苏格兰vs摩洛哥" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fru9o7no7mk77ao0jp400000000032ja8o6" group-title="世界杯回放",世界杯4K回放-苏格兰vs摩洛哥
-https://iptv.aibo.lol/replay/4460945
-#EXTINF:-1 tvg-id="世界杯4K回放-巴西vs海地" tvg-name="世界杯4K回放-巴西vs海地" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321frvjqh7e06k77ao0jp40000000007b2pjnq" group-title="世界杯回放",世界杯4K回放-巴西vs海地
-https://iptv.aibo.lol/replay/4460911
-#EXTINF:-1 tvg-id="世界杯4K回放-土耳其vs巴拉圭" tvg-name="世界杯4K回放-土耳其vs巴拉圭" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs02h1na06k77ao0jp40000000002h84avk" group-title="世界杯回放",世界杯4K回放-土耳其vs巴拉圭
-https://iptv.aibo.lol/replay/4460948
-#EXTINF:-1 tvg-id="世界杯4K回放-荷兰vs瑞典" tvg-name="世界杯4K回放-荷兰vs瑞典" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs0gij7a06k77ao0jp40000000005ud8mim" group-title="世界杯回放",世界杯4K回放-荷兰vs瑞典
-https://iptv.aibo.lol/replay/4460918
-#EXTINF:-1 tvg-id="世界杯4K回放-德国vs科特迪瓦" tvg-name="世界杯4K回放-德国vs科特迪瓦" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs10c97u06k77ao0jp40000000000ncgo7i" group-title="世界杯回放",世界杯4K回放-德国vs科特迪瓦
-https://iptv.aibo.lol/replay/4460915
-#EXTINF:-1 tvg-id="世界杯4K回放-厄瓜多尔vs库拉索" tvg-name="世界杯4K回放-厄瓜多尔vs库拉索" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs1muo7o06k77ao0jp40000000005r3h2ng" group-title="世界杯回放",世界杯4K回放-厄瓜多尔vs库拉索
-https://iptv.aibo.lol/replay/4460951
-#EXTINF:-1 tvg-id="世界杯4K回放-突尼斯vs日本" tvg-name="世界杯4K回放-突尼斯vs日本" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs27lt7o06k77ao0jp40000000006ti9vr4" group-title="世界杯回放",世界杯4K回放-突尼斯vs日本
-https://iptv.aibo.lol/replay/4460954
-#EXTINF:-1 tvg-id="世界杯4K回放-西班牙vs沙特阿拉伯" tvg-name="世界杯4K回放-西班牙vs沙特阿拉伯" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs30447ol6k77ao0jp400000000018kvbv0" group-title="世界杯回放",世界杯4K回放-西班牙vs沙特阿拉伯
-https://iptv.aibo.lol/replay/4460924
-#EXTINF:-1 tvg-id="世界杯4K回放-比利时vs伊朗" tvg-name="世界杯4K回放-比利时vs伊朗" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs2r1l7o06k0a0d0jpk0000000003qvbrlk" group-title="世界杯回放",世界杯4K回放-比利时vs伊朗
-https://iptv.aibo.lol/replay/4460921
-#EXTINF:-1 tvg-id="世界杯4K回放-乌拉圭vs佛得角" tvg-name="世界杯4K回放-乌拉圭vs佛得角" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs2hsena06k0a0d0jpk0000000000j3hk5g" group-title="世界杯回放",世界杯4K回放-乌拉圭vs佛得角
-https://iptv.aibo.lol/replay/4460965
-#EXTINF:-1 tvg-id="世界杯4K回放-新西兰vs埃及" tvg-name="世界杯4K回放-新西兰vs埃及" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs29de7u06k0a0d0jpk00000000075b1bjq" group-title="世界杯回放",世界杯4K回放-新西兰vs埃及
-https://iptv.aibo.lol/replay/4460957
-#EXTINF:-1 tvg-id="世界杯4K回放-阿根廷vs奥地利" tvg-name="世界杯4K回放-阿根廷vs奥地利" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs1sal7k06k0a0d0jpk0000000003bkgpd4" group-title="世界杯回放",世界杯4K回放-阿根廷vs奥地利
-https://iptv.aibo.lol/replay/4460930
-#EXTINF:-1 tvg-id="世界杯4K回放-法国vs伊拉克" tvg-name="世界杯4K回放-法国vs伊拉克" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs1g9cnk76k0a0d0jpk0000000006lo19i2" group-title="世界杯回放",世界杯4K回放-法国vs伊拉克
-https://iptv.aibo.lol/replay/4460927
-#EXTINF:-1 tvg-id="世界杯4K回放-挪威vs塞内加尔" tvg-name="世界杯4K回放-挪威vs塞内加尔" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs15ohnu06k0a0d0jpk0000000002q00u7q" group-title="世界杯回放",世界杯4K回放-挪威vs塞内加尔
-https://iptv.aibo.lol/replay/4460968
-#EXTINF:-1 tvg-id="世界杯4K回放-约旦vs阿尔及利亚" tvg-name="世界杯4K回放-约旦vs阿尔及利亚" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs0r2qnk06k0a0d0jpk00000000059c3n6u" group-title="世界杯回放",世界杯4K回放-约旦vs阿尔及利亚
-https://iptv.aibo.lol/replay/4460971
-#EXTINF:-1 tvg-id="世界杯4K回放-葡萄牙vs乌兹别克斯坦" tvg-name="世界杯4K回放-葡萄牙vs乌兹别克斯坦" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs0hn6na76k0a0d0jpk00000000019mmc4g" group-title="世界杯回放",世界杯4K回放-葡萄牙vs乌兹别克斯坦
-https://iptv.aibo.lol/replay/4460933
-#EXTINF:-1 tvg-id="世界杯4K回放-英格兰vs加纳" tvg-name="世界杯4K回放-英格兰vs加纳" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321frvgsp7k06k0a0d0jpk0000000004acgboa" group-title="世界杯回放",世界杯4K回放-英格兰vs加纳
-https://iptv.aibo.lol/replay/4460936
-#EXTINF:-1 tvg-id="世界杯4K回放-巴拿马vs克罗地亚" tvg-name="世界杯4K回放-巴拿马vs克罗地亚" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321frugfonk76k0a0d0jpk0000000005gde0fi" group-title="世界杯回放",世界杯4K回放-巴拿马vs克罗地亚
-https://iptv.aibo.lol/replay/4460977
-#EXTINF:-1 tvg-id="世界杯4K回放-哥伦比亚vs刚果民主共和国" tvg-name="世界杯4K回放-哥伦比亚vs刚果民主共和国" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321frstm67ee6k0a0d0jpk0000000005ps33he" group-title="世界杯回放",世界杯4K回放-哥伦比亚vs刚果民主共和国
-https://iptv.aibo.lol/replay/4460974
-#EXTINF:-1 tvg-id="世界杯4K回放-瑞士vs加拿大" tvg-name="世界杯4K回放-瑞士vs加拿大" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321nhptsena06k9h418jp60000000000jb2vd2" group-title="世界杯回放",世界杯4K回放-瑞士vs加拿大
-https://iptv.aibo.lol/replay/4459826
-#EXTINF:-1 tvg-id="世界杯4K回放-波黑vs卡塔尔" tvg-name="世界杯4K回放-波黑vs卡塔尔" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321nhsbaana06k9h418jp60000000001435nhq" group-title="世界杯回放",世界杯4K回放-波黑vs卡塔尔
-https://iptv.aibo.lol/replay/4460943
-#EXTINF:-1 tvg-id="世界杯4K回放-苏格兰vs巴西" tvg-name="世界杯4K回放-苏格兰vs巴西" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321nhsokkno06k9h418jp60000000006j10gt6" group-title="世界杯回放",世界杯4K回放-苏格兰vs巴西
-https://iptv.aibo.lol/replay/4460912
-#EXTINF:-1 tvg-id="世界杯4K回放-摩洛哥vs海地" tvg-name="世界杯4K回放-摩洛哥vs海地" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321nhvho57k06k9h418jp60000000005flpgli" group-title="世界杯回放",世界杯4K回放-摩洛哥vs海地
-https://iptv.aibo.lol/replay/4460946
-#EXTINF:-1 tvg-id="世界杯4K回放-捷克vs墨西哥" tvg-name="世界杯4K回放-捷克vs墨西哥" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni0apm7e06k9h418jp60000000000bdhume" group-title="世界杯回放",世界杯4K回放-捷克vs墨西哥
-https://iptv.aibo.lol/replay/4459823
-#EXTINF:-1 tvg-id="世界杯4K回放-南非vs韩国" tvg-name="世界杯4K回放-南非vs韩国" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni1k2ink06k9h418jp60000000001gjvtv2" group-title="世界杯回放",世界杯4K回放-南非vs韩国
-https://iptv.aibo.lol/replay/4460940
-#EXTINF:-1 tvg-id="世界杯4K回放-厄瓜多尔vs德国" tvg-name="世界杯4K回放-厄瓜多尔vs德国" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321nhrsl37k76k9rkkojp80000000003p4c7q0" group-title="世界杯回放",世界杯4K回放-厄瓜多尔vs德国
-https://iptv.aibo.lol/replay/4460916
-#EXTINF:-1 tvg-id="世界杯4K回放-库拉索vs科特迪瓦" tvg-name="世界杯4K回放-库拉索vs科特迪瓦" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321nhubcona06k9rkkojp80000000003aq8hm6" group-title="世界杯回放",世界杯4K回放-库拉索vs科特迪瓦
-https://iptv.aibo.lol/replay/4460952
-#EXTINF:-1 tvg-id="世界杯4K回放-突尼斯vs荷兰" tvg-name="世界杯4K回放-突尼斯vs荷兰" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321nhv6ndne06k9rkkojp80000000004loasre" group-title="世界杯回放",世界杯4K回放-突尼斯vs荷兰
-https://iptv.aibo.lol/replay/4460919
-#EXTINF:-1 tvg-id="世界杯4K回放-日本vs瑞典" tvg-name="世界杯4K回放-日本vs瑞典" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321nhvh07ne06k9rkkojp800000000007tl2la" group-title="世界杯回放",世界杯4K回放-日本vs瑞典
-https://iptv.aibo.lol/replay/4460955
-#EXTINF:-1 tvg-id="世界杯4K回放-土耳其vs美国" tvg-name="世界杯4K回放-土耳其vs美国" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni002v7o06k9rkkojp80000000007jbn3se" group-title="世界杯回放",世界杯4K回放-土耳其vs美国
-https://iptv.aibo.lol/replay/4459829
-#EXTINF:-1 tvg-id="世界杯4K回放-巴拉圭vs澳大利亚" tvg-name="世界杯4K回放-巴拉圭vs澳大利亚" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni0c8vna06k9rkkojp80000000000e5vmq2" group-title="世界杯回放",世界杯4K回放-巴拉圭vs澳大利亚
-https://iptv.aibo.lol/replay/4460949
-#EXTINF:-1 tvg-id="世界杯4K回放-挪威vs法国" tvg-name="世界杯4K回放-挪威vs法国" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni3lrnne06k9rkkojp800000000042l06iq" group-title="世界杯回放",世界杯4K回放-挪威vs法国
-https://iptv.aibo.lol/replay/4460928
-#EXTINF:-1 tvg-id="世界杯4K回放-塞内加尔vs伊拉克" tvg-name="世界杯4K回放-塞内加尔vs伊拉克" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni41237o06k9rkkojp80000000002j5h400" group-title="世界杯回放",世界杯4K回放-塞内加尔vs伊拉克
-https://iptv.aibo.lol/replay/4460969
-#EXTINF:-1 tvg-id="世界杯4K回放-乌拉圭vs西班牙" tvg-name="世界杯4K回放-乌拉圭vs西班牙" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni4fla7u06k9rkkojp80000000001ernbcu" group-title="世界杯回放",世界杯4K回放-乌拉圭vs西班牙
-https://iptv.aibo.lol/replay/4460925
-#EXTINF:-1 tvg-id="世界杯4K回放-佛得角vs沙特阿拉伯" tvg-name="世界杯4K回放-佛得角vs沙特阿拉伯" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni53i4no06k9rkkojp800000000007fcjkk" group-title="世界杯回放",世界杯4K回放-佛得角vs沙特阿拉伯
-https://iptv.aibo.lol/replay/4460966
-#EXTINF:-1 tvg-id="世界杯4K回放-新西兰vs比利时" tvg-name="世界杯4K回放-新西兰vs比利时" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni5d9n7e06k9rkkojp800000000051as8du" group-title="世界杯回放",世界杯4K回放-新西兰vs比利时
-https://iptv.aibo.lol/replay/4460922
-#EXTINF:-1 tvg-id="世界杯4K回放-埃及vs伊朗" tvg-name="世界杯4K回放-埃及vs伊朗" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni5qv7nk06k9rkkojp80000000003o0bo5m" group-title="世界杯回放",世界杯4K回放-埃及vs伊朗
-https://iptv.aibo.lol/replay/4460958
-#EXTINF:-1 tvg-id="世界杯4K回放-巴拿马vs英格兰" tvg-name="世界杯4K回放-巴拿马vs英格兰" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni1hfl7e06ka6b5ojpm0000000004e9tqmk" group-title="世界杯回放",世界杯4K回放-巴拿马vs英格兰
-https://iptv.aibo.lol/replay/4460937
-#EXTINF:-1 tvg-id="世界杯4K回放-克罗地亚vs加纳" tvg-name="世界杯4K回放-克罗地亚vs加纳" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni36crno06ka6b5ojpm0000000005d28fsm" group-title="世界杯回放",世界杯4K回放-克罗地亚vs加纳
-https://iptv.aibo.lol/replay/4460978
-#EXTINF:-1 tvg-id="世界杯4K回放-哥伦比亚vs葡萄牙" tvg-name="世界杯4K回放-哥伦比亚vs葡萄牙" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni3ktrno06ka6b5ojpm0000000002a53u82" group-title="世界杯回放",世界杯4K回放-哥伦比亚vs葡萄牙
-https://iptv.aibo.lol/replay/4460934
-#EXTINF:-1 tvg-id="世界杯4K回放-刚果民主共和国vs乌兹别克斯坦" tvg-name="世界杯4K回放-刚果民主共和国vs乌兹别克斯坦" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni3vhf7a06ka6b5ojpm0000000007a7s5os" group-title="世界杯回放",世界杯4K回放-刚果民主共和国vs乌兹别克斯坦
-https://iptv.aibo.lol/replay/4460975
-#EXTINF:-1 tvg-id="世界杯4K回放-约旦vs阿根廷" tvg-name="世界杯4K回放-约旦vs阿根廷" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni4krlna06ka6b5ojpm0000000001p2evk2" group-title="世界杯回放",世界杯4K回放-约旦vs阿根廷
-https://iptv.aibo.lol/replay/4460931
-#EXTINF:-1 tvg-id="世界杯4K回放-阿尔及利亚vs奥地利" tvg-name="世界杯4K回放-阿尔及利亚vs奥地利" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni5001nk06ka6b5ojpm00000000017titni" group-title="世界杯回放",世界杯4K回放-阿尔及利亚vs奥地利
-https://iptv.aibo.lol/replay/4460972
-#EXTINF:-1 tvg-id="世界杯4K回放-南非vs加拿大" tvg-name="世界杯4K回放-南非vs加拿大" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321qsga6g7k06k77ao0jp40000000002kpfstm" group-title="世界杯回放",世界杯4K回放-南非vs加拿大
-https://iptv.aibo.lol/replay/4459717
-#EXTINF:-1 tvg-id="世界杯4K回放-巴西vs日本" tvg-name="世界杯4K回放-巴西vs日本" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321s7klh47o06k77ao0jp400000000059q46lm" group-title="世界杯回放",世界杯4K回放-巴西vs日本
-https://iptv.aibo.lol/replay/4459720
-#EXTINF:-1 tvg-id="世界杯4K回放-德国vs巴拉圭" tvg-name="世界杯4K回放-德国vs巴拉圭" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321tdn1sk7o06k77ao0jp40000000004hbu7da" group-title="世界杯回放",世界杯4K回放-德国vs巴拉圭
-https://iptv.aibo.lol/replay/4459718
-#EXTINF:-1 tvg-id="世界杯4K回放-荷兰vs摩洛哥" tvg-name="世界杯4K回放-荷兰vs摩洛哥" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321s7lpic7k06k77ao0jp400000000064n0t84" group-title="世界杯回放",世界杯4K回放-荷兰vs摩洛哥
-https://iptv.aibo.lol/replay/4459719
-#EXTINF:-1 tvg-id="世界杯4K回放-科特迪瓦vs挪威" tvg-name="世界杯4K回放-科特迪瓦vs挪威" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321t544e8nu06k77ao0jp40000000006c2oao6" group-title="世界杯回放",世界杯4K回放-科特迪瓦vs挪威
-https://iptv.aibo.lol/replay/4459722
-#EXTINF:-1 tvg-id="世界杯4K回放-法国vs瑞典" tvg-name="世界杯4K回放-法国vs瑞典" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321tdnqbh7e06k77ao0jp40000000007j0masc" group-title="世界杯回放",世界杯4K回放-法国vs瑞典
-https://iptv.aibo.lol/replay/4459721
-#EXTINF:-1 tvg-id="世界杯4K回放-墨西哥vs厄瓜多尔" tvg-name="世界杯4K回放-墨西哥vs厄瓜多尔" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321um6m1t7ee6k77ao0jp40000000004shpcuk" group-title="世界杯回放",世界杯4K回放-墨西哥vs厄瓜多尔
-https://iptv.aibo.lol/replay/4459723
-#EXTINF:-1 tvg-id="世界杯4K回放-英格兰vs刚果民主共和国" tvg-name="世界杯4K回放-英格兰vs刚果民主共和国" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321umaafk7a06k77ao0jp40000000006g4e71i" group-title="世界杯回放",世界杯4K回放-英格兰vs刚果民主共和国
-https://iptv.aibo.lol/replay/4459724
-#EXTINF:-1 tvg-id="世界杯4K回放-比利时vs塞内加尔" tvg-name="世界杯4K回放-比利时vs塞内加尔" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321umiubvna06k77ao0jp40000000004btcngo" group-title="世界杯回放",世界杯4K回放-比利时vs塞内加尔
-https://iptv.aibo.lol/replay/4459726
-#EXTINF:-1 tvg-id="世界杯4K回放-美国vs波黑" tvg-name="世界杯4K回放-美国vs波黑" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321s7mub6na06k77ao0jp40000000005rguc0g" group-title="世界杯回放",世界杯4K回放-美国vs波黑
-https://iptv.aibo.lol/replay/4459725
-#EXTINF:-1 tvg-id="世界杯4K回放-西班牙vs奥地利" tvg-name="世界杯4K回放-西班牙vs奥地利" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321upok067k06k77ao0jp40000000005tu69di" group-title="世界杯回放",世界杯4K回放-西班牙vs奥地利
-https://iptv.aibo.lol/replay/4459728
-#EXTINF:-1 tvg-id="世界杯4K回放-葡萄牙vs克罗地亚" tvg-name="世界杯4K回放-葡萄牙vs克罗地亚" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321umlbtkne06k77ao0jp4000000000083aspc" group-title="世界杯回放",世界杯4K回放-葡萄牙vs克罗地亚
-https://iptv.aibo.lol/replay/4459727
-#EXTINF:-1 tvg-id="世界杯4K回放-瑞士vs阿尔及利亚" tvg-name="世界杯4K回放-瑞士vs阿尔及利亚" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321uprq747a06k77ao0jp40000000000vtqtjg" group-title="世界杯回放",世界杯4K回放-瑞士vs阿尔及利亚
-https://iptv.aibo.lol/replay/4459729
-#EXTINF:-1 tvg-id="世界杯4K回放-澳大利亚vs埃及" tvg-name="世界杯4K回放-澳大利亚vs埃及" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321tihv8sna06k77ao0jp40000000006j30r04" group-title="世界杯回放",世界杯4K回放-澳大利亚vs埃及
-https://iptv.aibo.lol/replay/4459797
-#EXTINF:-1 tvg-id="世界杯4K回放-阿根廷vs佛得角" tvg-name="世界杯4K回放-阿根廷vs佛得角" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321td0q567o06k77ao0jp40000000005ngimok" group-title="世界杯回放",世界杯4K回放-阿根廷vs佛得角
-https://iptv.aibo.lol/replay/4459731
-#EXTINF:-1 tvg-id="世界杯4K回放-哥伦比亚vs加纳" tvg-name="世界杯4K回放-哥伦比亚vs加纳" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321umlpa17k06k77ao0jp400000000014trnvs" group-title="世界杯回放",世界杯4K回放-哥伦比亚vs加纳
-https://iptv.aibo.lol/replay/4459732
-#EXTINF:-1 tvg-id="世界杯4K回放-加拿大vs摩洛哥" tvg-name="世界杯4K回放-加拿大vs摩洛哥" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n03221ctvb8no06goq2oo30k000000000neomt8g" group-title="世界杯回放",世界杯4K回放-加拿大vs摩洛哥
-https://iptv.aibo.lol/replay/4459801
-#EXTINF:-1 tvg-id="世界杯4K回放-巴拉圭vs法国" tvg-name="世界杯4K回放-巴拉圭vs法国" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n03222cilqu7u76k77ao0jp40000000006j9tnci" group-title="世界杯回放",世界杯4K回放-巴拉圭vs法国
-https://iptv.aibo.lol/replay/4459800
-#EXTINF:-1 tvg-id="世界杯4K回放-巴西vs挪威" tvg-name="世界杯4K回放-巴西vs挪威" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n03222lfviuna06goq2oo30k000000000l9b9bg4" group-title="世界杯回放",世界杯4K回放-巴西vs挪威
-https://iptv.aibo.lol/replay/4459802
-#EXTINF:-1 tvg-id="世界杯4K回放-墨西哥vs英格兰" tvg-name="世界杯4K回放-墨西哥vs英格兰" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n03223n7t73ne06goq2oo30k000000000gsbncvo" group-title="世界杯回放",世界杯4K回放-墨西哥vs英格兰
-https://iptv.aibo.lol/replay/4459803
-#EXTINF:-1 tvg-id="世界杯4K回放-葡萄牙vs西班牙" tvg-name="世界杯4K回放-葡萄牙vs西班牙" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032253o8jd7k06goq2oo30k000000000nq1g7i8" group-title="世界杯回放",世界杯4K回放-葡萄牙vs西班牙
-https://iptv.aibo.lol/replay/4459804
-#EXTINF:-1 tvg-id="世界杯4K回放-美国vs比利时" tvg-name="世界杯4K回放-美国vs比利时" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n03223rjvjunu06goq2oo30k000000000i2maogi" group-title="世界杯回放",世界杯4K回放-美国vs比利时
-https://iptv.aibo.lol/replay/4459805
-#EXTINF:-1 tvg-id="世界杯4K回放-阿根廷vs埃及" tvg-name="世界杯4K回放-阿根廷vs埃及" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n03226e5gc5na06goq2oo30k000000000g2788l8" group-title="世界杯回放",世界杯4K回放-阿根廷vs埃及
-https://iptv.aibo.lol/replay/4459806
-#EXTINF:-1 tvg-id="世界杯4K回放-瑞士vs哥伦比亚" tvg-name="世界杯4K回放-瑞士vs哥伦比亚" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n03226foegs7e06goq2oo30k000000000mss5k68" group-title="世界杯回放",世界杯4K回放-瑞士vs哥伦比亚
-https://iptv.aibo.lol/replay/4459807
-#EXTINF:-1 tvg-id="世界杯4K回放-法国vs摩洛哥" tvg-name="世界杯4K回放-法国vs摩洛哥" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322d5iekune06k77ao0jp400000000039dqd1g" group-title="世界杯回放",世界杯4K回放-法国vs摩洛哥
-https://iptv.aibo.lol/replay/4459808
-#EXTINF:-1 tvg-id="世界杯4K回放-西班牙vs比利时" tvg-name="世界杯4K回放-西班牙vs比利时" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322ddm7d5no06k0a0d0jpk000000000127gj9u" group-title="世界杯回放",世界杯4K回放-西班牙vs比利时
-https://iptv.aibo.lol/replay/4459809
-#EXTINF:-1 tvg-id="世界杯4K回放-挪威vs英格兰" tvg-name="世界杯4K回放-挪威vs英格兰" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322frdhoi7a06k77ao0jp40000000006cg1l0k" group-title="世界杯回放",世界杯4K回放-挪威vs英格兰
-https://iptv.aibo.lol/replay/4459810
-#EXTINF:-1 tvg-id="世界杯4K回放-阿根廷vs瑞士" tvg-name="世界杯4K回放-阿根廷vs瑞士" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322frduvg7ue6k77ao0jp40000000006kkuvqk" group-title="世界杯回放",世界杯4K回放-阿根廷vs瑞士
-https://iptv.aibo.lol/replay/4459811
-#EXTINF:-1 tvg-id="世界杯4K回放-法国vs西班牙" tvg-name="世界杯4K回放-法国vs西班牙" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322jo2h1j7k06k77ao0jp40000000006ifukpa" group-title="世界杯回放",世界杯4K回放-法国vs西班牙
-https://iptv.aibo.lol/replay/4459812
-#EXTINF:-1 tvg-id="世界杯4K回放-英格兰vs阿根廷" tvg-name="世界杯4K回放-英格兰vs阿根廷" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322jo9hornk06k77ao0jp4000000000644rho4" group-title="世界杯回放",世界杯4K回放-英格兰vs阿根廷
-https://iptv.aibo.lol/replay/4459813
-#EXTINF:-1 tvg-id="世界杯4K回放-法国vs英格兰" tvg-name="世界杯4K回放-法国vs英格兰" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322lje9b8nk06k77ao0jp40000000005drpj98" group-title="世界杯回放",世界杯4K回放-法国vs英格兰
-https://iptv.aibo.lol/replay/4459814
-#EXTINF:-1 tvg-id="世界杯4K回放-西班牙vs阿根廷" tvg-name="世界杯4K回放-西班牙vs阿根廷" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322pubmvg7k06k77ao0jp400000000020k4rb4" group-title="世界杯回放",世界杯4K回放-西班牙vs阿根廷
-https://iptv.aibo.lol/replay/4459815
 #EXTINF:-1 tvg-id="FussBall TV" tvg-name="FussBall TV" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fussball.png" group-title="世界杯",FussBall TV
 https://cdn.staticres.top/p/2e78179a-b837-4050-bd1c-a260536c755c
 #EXTINF:-1 tvg-id="TSN 4K" tvg-name="TSN 4K" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos/countries/canada/tsn-4k-ca.png" group-title="海外高清",TSN 4K
@@ -422,8 +214,6 @@ https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="港澳台",凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=19
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="港澳台",凤凰中文
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9DT0VfLTJvMnRTS2pudThxU0RYdlNxaWcwaDBfYlRNT1hHRFR0Z3hEcnRNS25PVFJIV0t3QW1XRjgxV2thVUFBL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="港澳台",凤凰中文
 https://iptv.aibo.lol/qd/fhzw.m3u8
 #EXTINF:-1 tvg-id="CCTV1港澳版" tvg-name="CCTV1港澳版" group-title="港澳台",CCTV1港澳版
 https://cdn.qd.je/163189/cctv1
@@ -441,8 +231,6 @@ https://iptv.aibo.lol/qd/hoy.m3u8
 https://iptv.aibo.lol/qd/hoy2.m3u8
 #EXTINF:-1 tvg-id="HOY资讯台" tvg-name="HOY资讯台" group-title="港澳台",HOY资讯台
 https://cdn.qd.je/163189/hoy78
-#EXTINF:-1 tvg-id="HOY资讯台" tvg-name="HOY资讯台" group-title="港澳台",HOY资讯台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9felh0N0QtOHRCOFRhd3hJOHBhcVhydjZ3X3VDdnZoc0o5c09qNG1OVmtHWTY2ZElCclh2V24xUFQ4Z2V1OEMxL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="HOY资讯台" tvg-name="HOY资讯台" group-title="港澳台",HOY资讯台
 https://iptv.aibo.lol/qd/hoy78.m3u8
 #EXTINF:-1 tvg-id="HOY国际财经台" tvg-name="HOY国际财经台" group-title="港澳台",HOY国际财经台
@@ -498,13 +286,9 @@ https://iptv.aibo.lol/qd/cwjd.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="港澳台",凤凰资讯
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="港澳台",凤凰资讯
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9aYXMyc0phNTdhOXVnSnRQWmJiMFRxeEdsY1J4Nk41TjVsdkFTTWJyTkVLblZWaXZnME5TaXBtajNudEVWS0xTL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="港澳台",凤凰资讯
 https://iptv.aibo.lol/qd/fhzx.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="港澳台",凤凰香港
 https://cdn.qd.je/163189/fhhk
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="港澳台",凤凰香港
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC8yVW40MnZnYnR2TEpvbFBFMWNsWWltNHpKVnZ0MVN6TVAzWVpaQmpDaUZ0Q3hvN1RRYnlBQ1BkNWx4dWJSRnI0L2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="港澳台",凤凰香港
 https://iptv.aibo.lol/qd/fhhk.m3u8
 #EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" group-title="港澳台",TVB1
@@ -523,8 +307,6 @@ https://cdn.qd.je/163189/tvbd
 https://iptv.aibo.lol/qd/tvbd.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="港澳台",翡翠台
 https://cdn.qd.je/163189/fct
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="港澳台",翡翠台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9MSmR4b0RDN1JXT2tzRjhzMHFSUmwydlBZNW93Q25TcF9RdUhDbHVLb0ZzOWNTYy13ZFpkald1U3FoeDBPLS1EL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="港澳台",翡翠台
 https://iptv.aibo.lol/qd/fct.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="港澳台",翡翠台
@@ -551,8 +333,6 @@ https://cdn.qd.je/163189/gdzj
 https://iptv.aibo.lol/qd/gdzj.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="卫视",广东体育
 https://cdn.qd.je/163189/gdty
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="卫视",广东体育
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9KNnJqQmd2Y3JaNmd4VDFTQ0R0Zy1jUUlibFZlWGtvZDBGT2E5NGpKUWFSeW9xTFo5Z1ZFNER2UHpmYmkyWWEzL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="卫视",广东体育
 https://iptv.aibo.lol/qd/gdty.m3u8
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" group-title="港澳台",八度空间
@@ -726,8 +506,6 @@ https://cdn.qd.je/163189/jxdmt
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="港澳台",TVB Plus
 https://cdn.qd.je/163189/tvbp2
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="港澳台",TVB Plus
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC81TU5nSFRXWmVTU2tubHBpelZnTXpFTWxYdjI4VW5mZmwzY2ZzcXdtUkFCM2FQS2VtUkV5T0FvaVdBd2NLYmxQL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="港澳台",TVB Plus
 https://iptv.aibo.lol/jd/tvbp.m3u8
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="港澳台",TVB Plus
 https://iptv.aibo.lol/ext/tvbp-bx.m3u8
@@ -739,8 +517,6 @@ https://cdn.qd.je/163189/wlxj
 https://cdn.qd.je/163189/wlty
 #EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" group-title="港澳台",龙祥时代
 https://cdn.qd.je/163189/lxsd
-#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" group-title="港澳台",龙祥时代
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC8xWGR2ZHZ0aEJrbDFYTFEzQ19ZdUNKc0FibS1rTTBBZDIxbkM2aGFRd0NKdFgwR2h5MlgyY3BpQUFYcnN6T0Y2L2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" group-title="港澳台",东森电影
 https://cdn.qd.je/163189/dsdy
 #EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" group-title="港澳台",东森戏剧
@@ -751,6 +527,10 @@ https://cdn.qd.je/163189/dsyp
 http://r.jdshipin.com/ln4xk
 #EXTINF:-1 tvg-id="咪咕4K-2(限移动网络)" tvg-name="咪咕4K-2(限移动网络)" group-title="海外高清",咪咕4K-2(限移动网络)
 http://r.jdshipin.com/Lqdwf
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://php.946985.filegear-sg.me/logo/無綫新聞台.png" group-title="iNEWS",無綫新聞台
+https://php.946985.filegear-sg.me/tvbnews.php?id=c
+#EXTINF:-1 tvg-id="無綫新聞台國際版" tvg-name="無綫新聞台國際版" tvg-logo="https://php.946985.filegear-sg.me/logo/無綫新聞台.png" group-title="iNEWS",無綫新聞台國際版
+https://php.946985.filegear-sg.me/tvbnews.php?id=inews
 #EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://php.946985.filegear-sg.me/logo/ActionHollywoodMovies.png" group-title="港澳台",Action Hollywood Movies
 https://php.946985.filegear-sg.me/mytv265.php?id=ACTM
 #EXTINF:-1 tvg-id="Rialto Classic Movies (RCM)" tvg-name="Rialto Classic Movies (RCM)" tvg-logo="https://php.946985.filegear-sg.me/logo/RCM.png" group-title="港澳台",Rialto Classic Movies (RCM)
@@ -831,14 +611,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=61
 http://iptv.4666888.xyz/iptv2A.php?id=20
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" group-title="台湾",TVBS新聞
 http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" group-title="台湾",TVBS新聞
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9vOXJhdlRodVA0LWtwLW1XeEF4c2pLUEZ2bEpLdlY1MTUxbkJ3cnRHcGhveG9FbEJmNGx6SDJUUUVVUy1qWkpkL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="鏡新聞" tvg-name="鏡新聞" group-title="台湾",鏡新聞
 http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" group-title="台湾",民視
 http://iptv.4666888.xyz/iptv2A.php?id=55
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" group-title="台湾",民視
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC8yUnhYWm1aaXFZVVNZR2FTSF9jbXd6dEN1OVRtY1RQa3daMGw3cWpQR08zQnNwbDA1Uk5SV0h1VnpJOHFqUkhfL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="華藝中文" tvg-name="華藝中文" group-title="台湾",華藝中文
 http://iptv.4666888.xyz/iptv2A.php?id=37
 #EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝" group-title="台湾",愛奇藝
@@ -867,8 +643,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=39
 http://iptv.4666888.xyz/iptv2A.php?id=49
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" group-title="台湾",金光布袋戲
 http://iptv.4666888.xyz/iptv2A.php?id=38
-#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" group-title="台湾",金光布袋戲
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9CeWNBdXBpd0pOcE1PX0lrMzNnNTJMTzg4YjI1Z3U3ZEo4N3hOeGpaWFFhZmdxVWhld0ZkeFZIazdjY1lEWW50L2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="民視綜藝" tvg-name="民視綜藝" group-title="台湾",民視綜藝
 http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 tvg-id="民視影劇" tvg-name="民視影劇" group-title="台湾",民視影劇
@@ -887,238 +661,20 @@ http://iptv.4666888.xyz/iptv2A.php?id=63
 http://iptv.4666888.xyz/iptv2A.php?id=64
 #EXTINF:-1 tvg-id="綜藝大贏家" tvg-name="綜藝大贏家" group-title="台湾",綜藝大贏家
 http://iptv.4666888.xyz/iptv2A.php?id=65
-#EXTINF:-1 tvg-id="NOW Sports 616 4K HK (Not 24/7) 01" tvg-name="NOW Sports 616 4K HK (Not 24/7) 01" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="世界杯",NOW Sports 616 4K HK (Not 24/7) 01
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9RTURCOFVVYmpFLUc0ejZwYlRZeUpETWQ2YjlCTGM2a1dlN1dNTTcyZ3ZRVEJyTHg0bTZNMkJlVFJtSlAycEJyL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="FOX 4K (Not 24/7) 01" tvg-name="FOX 4K (Not 24/7) 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="世界杯",FOX 4K (Not 24/7) 01
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9RZXBhS0JVeFoxVTVxbVdXbkZjekJ4VXN1TURpNkd2VVl6UVNwUjNxWlNRcUNrc2JSS0xza3Rvb1RtYUtCallPL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="世界杯",FOX
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9EbWVsNUplQ3BOWXdscGhacWl4VlA3eUJTbi1zb1MwM2UySk5URHJTNHMtZUV0WmdwUFhpNldlS0RRYTdQdm80L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="FS1 4K (Not 24/7)" tvg-name="FS1 4K (Not 24/7)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="世界杯",FS1 4K (Not 24/7)
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9URmg5SklEQmVyQVpOOUQyOXFkdkRseTltUFFxRlRhYWVMTTBOUVJnYWU0VnU4eGljbDduYlJ3ZVY5Nnh0bVFsL3Jhdw
-#EXTINF:-1 tvg-id="TSN 4K CA 01" tvg-name="TSN 4K CA 01" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="世界杯",TSN 4K CA 01
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC8zaUgydEdiRGsyRWdnbFNFWnVRb21WY3BOc2FCVnFEcGNUdUo0aldzWV9PVFJkZFl4bVdYdDBFTS1uczJQQXZoL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="TSN 4K CA 02" tvg-name="TSN 4K CA 02" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="世界杯",TSN 4K CA 02
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9LVTVrWHlaci1JSWNMd0QyeEpyVzRiT0RzbGJMSG9iRzZaNHVtMkxxN0tzUllTRXF4bThOaXpDSERJSmhYQ3Y1L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="世界杯",Telemundo
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC8yNllhOUJpVGlLYWpwbHNMczVYZnBaeVRkSjJ4eERvUkZzOUFVcl9xdXpoOFdLVVNaNEJmY1cxalE5RXlIQi1zL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Universo" tvg-name="Universo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-universo-us.png?raw=true" group-title="世界杯",Universo
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9WVmhjeVlfdHU4bGJYUkYzQmN2bEdHb2FMdzItbHJZMjRLZlBiUXNfamw0YVZ3VHdPNmRCc0oyb2xGazE1dWg0L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="M6 4K FR" tvg-name="M6 4K FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png?raw=true" group-title="世界杯",M6 4K FR
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9SUFk5SEQxbS1SdlVHS0RlTlJoN1ZUYXVLMjJEMGFqRnZxaUJNTmJJMFo5V0VuVTFCYzdWWU9HMnpOWWFXQmpiL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Fussball.TV 1 4K DE" tvg-name="Fussball.TV 1 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="世界杯",Fussball.TV 1 4K DE
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9BcHZnTzROck5QLTJTcUhqZ3FRZ1A2RzlfeElqank1emtqZmJaU08xSUJTTndlV2FLV0tWN0lqcmhFbm9mTkZYL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Now Sports 618" tvg-name="Now Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="世界杯",Now Sports 618
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC83S1NSMmlIdlA2S0RtVDB1OWFLQlhsYnl1Q0tHcWR6QnAzQnpRRmdlWGtiN1F0NGVYS1JKZXBKcjVwYWE5VUJZL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Now Sports 618" tvg-name="Now Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="世界杯",Now Sports 618
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC85MVAxSnpWcXlVQ0lZS2J0MmFKWkU0WWFROTVjZnNVV19WZ2ZmTlJDRi10N3FRd1RMZlpPS3pUVHdHWWxoMGJmL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="NOW Sports 619" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="世界杯",NOW Sports 619
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9vUkM3RDdmVU5mSk14UGNNRnQ1TGlpNVlDX0JMZG1XSkFnaFlxbl9hSTNCT3ZsZzB5b0Y4TjVrYTUtV21GbVJZL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Fussball.TV 2 4K DE" tvg-name="Fussball.TV 2 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="世界杯",Fussball.TV 2 4K DE
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9kVGdpbVZPVG82Tm52QXpMelltaDhtT0VqMFdRajRYNlltcWhZMTVuTDNrbUMya0dWM2dmTURycDdDZnQ0NkpBL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="One Sports+" tvg-name="One Sports+" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="世界杯",One Sports+
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9ZejB2QTd1M21qcFh5YzNjbVJlM1hHS2hXRTRRakVfbWhiXzJaaUpoNERNQUs2NklPSHkzc0tYT3l3WHF5cGJoL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="BBC 4K UK (Not 24/7)" tvg-name="BBC 4K UK (Not 24/7)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="世界杯",BBC 4K UK (Not 24/7)
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC94LURfeHlRbjFKVjhWdzlpV1pzeGdZMEw3T0VyaUNxQnlrMFNHUUFiN1VkVDR4SDhfWUJvbkFVeEphZzlwNklHL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="NOW Sports 616 4K HK (Not 24/7) 02" tvg-name="NOW Sports 616 4K HK (Not 24/7) 02" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="世界杯",NOW Sports 616 4K HK (Not 24/7) 02
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9saHgyblVEek9QOUg5aENvTVpveDBBbE16a1pZelMtZ0NONzU3MWZJSHV4VnNId1FQdW5TUl95UFp0ZTlxdUNtL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="NHK BSP4K JP" tvg-name="NHK BSP4K JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/NHK_BSP4K_2023_logo.svg" group-title="世界杯",NHK BSP4K JP
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9xSm52WGU2NWg4OWJmTDFqZ2hMLS13S0R0VXQzMHZva2Fsem1UNndjNjhOYUpjcHZUbUNDdFN1UGZub2M3NFlxL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="FUSSBALL.TV 1 UHD" tvg-name="FUSSBALL.TV 1 UHD" group-title="海外高清",FUSSBALL.TV 1 UHD
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9jcVl3d0RlaVRQbGZtQ3JBVkdOSGZGUGhwVElCaXczZ0kxZTdCNWpLc1oyZy1XMkd1b244TlprcHNjQ25GWk1KL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="TSN 4K CA" tvg-name="TSN 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="海外高清",TSN 4K CA
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9mRXdOZ1FnUWN6N2RjYlFMdE45SWtCSmpwSDZEMW9OdnpOVDV1cExnM0cyaUJ3UVZLSWE4QVBNLUVHT0NqRWNlL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="TNT Sports Ultimate 4K UK" tvg-name="TNT Sports Ultimate 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-ultimate-uk.png?raw=true" group-title="海外高清",TNT Sports Ultimate 4K UK
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9ibmhHZjBySDZFNVN1cno0YUFVOW1hODBiczlCYzROb09mOVBSdk14ZXNDaHIxNE90WENjQXlBRUpuQ0lQcGNWL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Sky Sports Main Event 4K UK" tvg-name="Sky Sports Main Event 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="海外高清",Sky Sports Main Event 4K UK
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9ucW0tbjU3R0R3a1dxSUNCaURUekdWamhKZjdOX1JGWUVjbi1STTc0Z1Vmbl85ZHlucTAxU1YtdXBoUDFGNFpOL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Stingray NOW 4K CA" tvg-name="Stingray NOW 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/stingray-now-4k-ca.png?raw=true" group-title="海外高清",Stingray NOW 4K CA
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9lWWRybjFSa2FwN1loWTNKRVJxNVo0dWRGaEZOR18zSXFkSHNXSkFyR25GS3czN3ZpMnhTYmJRT3FkaE4taFpoL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Stingray Festival 4K CA" tvg-name="Stingray Festival 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/stingray-festival-4k-es.png?raw=true" group-title="海外高清",Stingray Festival 4K CA
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC92OEZtRjRlUS02ckMtWUZSc1NxbnNuUVhuSDBuOFFOMVN1UVVVQmJqcWQtaDZxVUlOd29aeUc0dVdZRWgtMk9RL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Sportsnet One 4K CA" tvg-name="Sportsnet One 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn1-4k-ca.png?raw=true" group-title="海外高清",Sportsnet One 4K CA
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9LRVlZbFo5U2RIOVp1YU41UTJTc2c4YWlVZDI0TWthbDdZY1pFRnlLaDlicDEyaTgtQVVGRkpzY1ZRU2tSdXJBL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Sportsnet One 4K CA" tvg-name="Sportsnet One 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn1-4k-ca.png?raw=true" group-title="海外高清",Sportsnet One 4K CA
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9Hc0gxMlNEa3FCWU1kWHZ3NHk4R2duQnFUc3BOeVRFZE5yZUcxVm5INzFnVVdLZmpqOEpWWTdUNXRSZ1NwNmlEL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Sportsnet 4K CA" tvg-name="Sportsnet 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn-4k-ca.png?raw=true" group-title="海外高清",Sportsnet 4K CA
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9ZdndFZDBmOEMxaGxuZm1CekM4a1BIeUR3dnlEV19NTDc3a29NdkhvUDFLemxFSTJjWlVJR1NEQ0d4ZTFXWEFTL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Love Nature 4K CA" tvg-name="Love Nature 4K CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/500px-Love_Nature_logo_%282025%29.svg.png" group-title="海外高清",Love Nature 4K CA
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9YM09JQVhUYVdQN3FoYTlxblJqZjZKQ3hPVVV0eldmMVJtbFpSZ2FFdFcteUhtaEZNM295TjhlY2Q5a1JBUUdCL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="海外高清",Love Nature 4K
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9WOUkwVjZ4ZlB2NTQ3YmE2TnlHTlFPUDFxY2JQWFJpRFFGMmk5NGRrSXk5c2k3bURJWFF4V0hqU3VQUFh3REVxL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="INULTRA 4K PL" tvg-name="INULTRA 4K PL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/inultra-cz.png?raw=true" group-title="海外高清",INULTRA 4K PL
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9qUmNPNzJEUE1qNTlzcno2ZHQzN2Exd3hkcW1fTVhPc2pPeURoRF82UG1ZS1NOaVdFTy1sWnoycFNISUdGdzUxL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Sky Sports F1 4K" tvg-name="Sky Sports F1 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png?raw=true" group-title="海外高清",Sky Sports F1 4K
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9WRC1NTlR2MUhVc2cwRmZCajhsMzhpWjZpUFR3XzhsM083S1pIS1FwRzl0YmRGeTR4MHdDM0d0dnhFbGdVZ0NRL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="FUSSBALL.TV 2 UHD" tvg-name="FUSSBALL.TV 2 UHD" group-title="海外高清",FUSSBALL.TV 2 UHD
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9EbklNLVVzTEdjSU5FWVhBVzYwMUNYSlZSNnNZa0UtY054N1F5em5QUDFGQUNZNjdHYnQ0NGlnWTlGR01aRExHL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="FUSSBALL.TV 3 UHD" tvg-name="FUSSBALL.TV 3 UHD" group-title="海外高清",FUSSBALL.TV 3 UHD
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9OTk04MGtZU0d2Wmx5b2JyRThkb1J3UEZtTXFoUG5yMDlCVWxtRzFTV2hIREpEWG5YSDk1YzVEQTJQeXBuRWF2L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Sky Sports UHD 1 UK" tvg-name="Sky Sports UHD 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-uhd-uk.png?raw=true" group-title="海外高清",Sky Sports UHD 1 UK
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9ES05lelVpc2xLeGxqNDB2N1doWEFscHRQZGcwR2QyWUpUR0g1TzdQQXlTWDF5SjV1dGJxVEJBQU5FOHJ1RUdsL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Sky Sports UHD 2 UK" tvg-name="Sky Sports UHD 2 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-uhd-uk.png?raw=true" group-title="海外高清",Sky Sports UHD 2 UK
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC83bk84bl9IbEhqbWd6Q0M4OFFac3FuVHBEbl9PaXhoUXlrNzlaXzlXeVJfWG5ZT0RwSkVVRWRaaURjeGpFWWtsL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="台湾",愛爾達體育3台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9abWpud0p1VThSSmhxSTY5Wjk5TDZrQmJhLUl5LVdvZ09hS3JqUEVpbzNHMHJnT05JSHUtdlRnWmY5ZlRMSHpBL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="台湾",愛爾達體育2台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9LY3M4WjVTbjBfZWdwakVjOG92cE5iR3oxZlBQd0E5bUhiRnJfV2ZQeVFySkFCMXNKSDdfWU9sU1pZVnIzamNQL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="台湾",愛爾達體育1台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC83R0Z1ZVkzSHVaNFVJV3B2OW5laWtHLTR6YS1mdnpQMXlTcHFyRl9sWlU4TGtiZDE4X3dLSE5DYjFrVUFydXNfL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="台湾",纬来日本台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9Mc0lyQWZuT3JDWVpKRWFaSk92WGlnQmJFS3pOcm11dzMxczRLOVJmekc4ODVsVVhBUTNUSzRFdU90ZS1pZVQ3L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="台湾",纬来电影
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9SUDhUby1BdmI1NHIxMWhzRUdXQnp1UjJHNHpRc1JhSWdEQ3BTZUVUQ3F6LWN1YURnR2lWYjFXNFh4bjA5MUVTL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/TSL.png" group-title="台湾",智林體育台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9XcmxXN3NGRlpYbDlad3Q1NmNtU3VZdlpYVjVKVXFTdk1aRm1mQjdXakZMYUlnbUxZcXFWVjh5VG9TaGxaa3ZBL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/sportcast6.png" group-title="台湾",博斯魅力台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9zM0pSSXpRUzhYekR5Nmx3TWNLZ1A2S2xTS1c5c3BDS1dlOG1abEJvbTlNbmE1cHhvcUc0dkV3N0hPR0RpT1FmL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/sportcast5.png" group-title="台湾",博斯網球台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC90NjVRYmJSTVpnekU4cUZhUENXNnJ6cF9zTzY2VjFwQWp4cTMxZDdGTFFGQ0VmVU9PWG1GYlVDdFBGSG5RNFhZL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/sportcast8.png" group-title="台湾",博斯無限二台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9tZVZrTUVJeVpmTXNqZzNLSmpHUUllQjBUSnlOTWdIbnEtMmZpeU9kLTFOZG5qNm5ybFc4dDBZZzJzVWNRQmFiL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/sportcast7.png" group-title="台湾",博斯無限台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9YTGtoSW5SSkd3UnZJV1JjNWxJYmZ5RllnaWdVbTlLNDh0bS1BdGYzOHpCMjdjcnRFNlNteU1VVnhFMXg4QUNFL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/sportcast2.png" group-title="台湾",博斯運動二台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9ZWm1RclhuUFV0LWZ5VUdVNG96TmxfbXQwSDZ5Zm5BVmpKUVdVbG1uMUx5VEJrN0tCWmFMQ3FqTWNqTXRtMER4L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/sportcast1.png" group-title="台湾",博斯運動一台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9rbEdIcXJXRzVGQTRPUEVSdHdpZnVxZEg3OEt0V2dLV1QxR2M0ZTRWajVJVVROV3Y4NnVOMXk3aG5RWUtxaGpCL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/sportcast4.png" group-title="台湾",博斯高球二台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9rbjE3dHA4QlNhYzJ6QkUxYTdPZ1llR2N4azhjakZWdkdaeHd4TG45MXVEUmlWSmRQWV9LNFp4V3hEbU9EczFXL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/sportcast3.png" group-title="台湾",博斯高球台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9jTXpqZzdwRzIxczhyRnRGQ2xWMTNUWTc5RFZrRXZGRVUxRmxRcGlPblhIRy0xOUR0ZS1xVlppMHVaQmowOGdhL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="台湾",東森新聞台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9wUEZXamhMT2JuQmpxcWIyWEVTZWxGVDkwZE0yelFZLUFDTWxwb1lhQXQtaEdfQTZRenI0Ukh5YmdhSjF5Rk51L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jy2.png" group-title="台湾",靖洋戲劇台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9nR0NTcWhYSkNVdnZaMzY4Z1kwUTdKSUIxVUlad2pCMEJWSEpDZkU5VmxaZ040b0VBOS1wa1hxUUtUb0psM3VGL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV8.png" group-title="台湾",靖天戲劇台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC8zNTdvWElabUx4aUUxanhSdzdNdnBYTzcwSkx0VHJGSUVqV3VPUWxTY1FlYUpKTGJHSFc2RUFQZTR5LXhHbUJTL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC%E7%94%B5%E5%BD%B1.png" group-title="台湾",amc電影台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9XU0Q1OFhIX016eDhXcGZLbjVTZElKN24zbkE3UWVqMUZ0VU83YWE5RlRyMXZJT1dYUGZrOG1CamtWV1FibHhOL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV9.png" group-title="台湾",靖天電影台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9SNkZhX2IxN3o1Vi1qbk0xSnNTRmF1bEtqRmdZUFJqdXJvVHVOX29zLWlzcmdkX3EwWGxRbzlDbTZHcEhhV1hQL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV3.png" group-title="台湾",靖天映畫
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9MRVk0cWE2cmtDc3ROT280MlpROE5ES01Uc1MxV1hsV1l5ckttNENDN0xibTVmYjVDeDFSaEg4MkktTUZvbU1XL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/caichang.png" group-title="台湾",采昌影劇台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9RR251aTFndXMtTWZ5eUNwV0dnNC1uMUhwMS01N01XSy15cDRWbjVWTFBFYWdHejF0S3N6aDNBMkt4QWltdEtEL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" group-title="台湾",ROCK Action
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9rVm50S0ZxMjhocUJlanN3REhkYUVTS09BbTdCbVF4Q2hhRnlYeUxjSEtEY25aMjBfRFZfb24zZndMWmlQT2xjL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" group-title="台湾",ROCK Action
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC80X0pJMVducGZQUVRGbEx3RFIxZzNmRUpRYWwxZHVjcjd1eUJTWUpDbzdZWnVqNmVMOGVPaGNwZGVkWGZyWmw0L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV5.png" group-title="台湾",八大精彩台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9tSUtJMWhjc3NnTDBiRmh1Z2dCNzhIQUd3NndBTzlxWDMtOFJ2WjNya0JBbXdnVzl3cW9PVTdOc3ctbmJOd3pCL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HITS.png" group-title="台湾",HITS頻道
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9id3R6RVVIM2UxZzhQSVFUZDBXYUFCbTYtUWpHUVAteVF0eThnQWR4WUNWc3p6STNmeDVka1BHZ05CdW1qYVAxL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Asiatravel.png" group-title="台湾",亞洲旅遊台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9SMmFnenhWRXNlSmRnVDA5bXhtZDd6WTNHN2JIQXdHNkhUZ0tWa21uUUp6TDMxZVBQWnp5VWVWamJxMUlNdHVWL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png" group-title="台湾",東森財經新聞台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC90NFlDdEVGeklkWGxwWWMxRlE5cG5ZMk5RWVBab0NEMGlpa2FKUWpaWFJrM05oTm9KZ2RHX1U1Y1B1VTE4bFJGL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV7.png" group-title="台湾",豬哥亮歌廳秀
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC92bG12dmZodER5Uk1iRUNZSFBxVmxZVFA5eEh6RE96dTNvNUdlNHpzaVhKcXR2UGpBMG4xaGZ3cTY1SHlVOFBVL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV6.png" group-title="台湾",民視綜藝台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9CYXQtMDI5ZzBXX2NYVWZGVU5tUDFjX2ZRVTN3aGlVdFd0ZjViaUtwdncxb0FfRExQeVQwdFhCdjAtY24xM0hRL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="台湾",三立新聞iNEWS
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC81STZtWFM3MWhhb3paa0RrY2NjMDkzWUo5Z2ZveFgwMy1DYkNqT0xTbEs4S2N5RFlBbUNrbUVQS0pyNFZYUHp6L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" group-title="台湾",八大綜藝台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9IUURINDlsaXZ1UFVwMUZhbS1IenRLNWh3RnJDUDRweGRDT1U1S1lTa3VTQjJXc0g4ZXJGNnRDR2FhTk9WM2c3L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="愛爾達寵物運動台" tvg-name="愛爾達寵物運動台" group-title="台湾",愛爾達寵物運動台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9nTFcxdWVCMG1PMURhR0YtS1pydlFRVnlUcE1fZ05CX2kxb2F1ZTZTU3BRMnRIeDExR3gtdWQ3b296bXJ4Sk8yL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS3.png" group-title="台湾",公視戲劇
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC85OEVjc0Z1NUZtcjRuUnlSMU5hU2xmMHJ0NnNqSjZOLWlSS05KQW1VcHlFQ0taSnZtMDZlVnNndWdEVU1uUTFRL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV4.png" group-title="台湾",民視影劇台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9wMzhSVkZPQ3ZhZGc0TGZPTHVnY29rYzU5M0hxRFFkSVYxQ1VSbDRieGp3dUJWZUhETFc4ZUNIX2lxVW8td1o3L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV5.png" group-title="台湾",民視旅遊台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9VLXh3My1oUUhtTlEzc3F2aEFWQzd3LUQyWDgwbUJsNzFrRWJhMlZfTGhIZDhmQTBuclRWV25LckhJRnBUb2puL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS3.png" group-title="台湾",TVBS精采台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9seDVpYWdnLWk1dWRpUHJTVXBuQlJZSDZSMlFHVGs0UTNXQnFLelhUYUd0QnhCMk11Y3ZtVmRYdjdaYWt5YVRBL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png" group-title="台湾",TVBS歡樂台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9saE9KU255SGMxaGV1bVBoVG9zcFlNR0RKeHBxRzIzRUYybDJLZmhqT3ZLRDc1czJ1ejNlU05lbWFYT0p2OTVyL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" group-title="台湾",TVBS
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9MbUhwNWhKdGYtRVRZZDhkUmF4Q2ZEYVhzellyOU80cXMyNzFEeUhMN1plMVJFd0NXSzRXWFFxYUtiX3U0NXNxL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global3.png" group-title="台湾",寰宇新聞台灣台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC93SF81QUdZRjhMOHB5YUNwMU1fcS1PQnI5SlNrbUo2a1NuenJXaDRpdFRBTU5PMU5UNExyRnh6QkMxcEZRekRDL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global2.png" group-title="台湾",寰宇新聞台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9aR054ZUNlSkJFd0Y0MTVtaGFILVpfUlRTWUowMzBmQ2Y3TVpHY2o1cFJDZzNtbk1HT3VXRGprcmxsRUFsZENUL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="台湾",中天新聞台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC93YnhLa3U5cVdIUG9aQnVOMW44VTN3N3RQTUQ2NkNfdFdwY3RNZk1uRDd2ekM5SFhfTlNSQjVyT0dNTlk2Znd0L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png" group-title="台湾",中視新聞
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9laDRPU2NXQWZwSjlOLXU2TGhxTmZoZkpWT3NJMFdKa1BiNTNSRXRqSXRVRTc4VVFNWDBBaHprMmZBSXF0bkYzL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV1.png" group-title="台湾",民視新聞台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9XeU1qZEdIcGVPcXMyYi1JRG1qZGg1bTd2ZTRQRGs0YWdIQzBWTDNtVmFNX3VmSjRFQXRiR1Q4YWtMMVlpaU1DL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png" group-title="台湾",華視新聞
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9sRXZ2TzlwQlJfR2R3c3FwSS1tX3ZHb1NPcmVKVy1ZWEE1dVVrTDhqOEpFUWc5VXFEdlEyeGItb0o4a2FDQ2FEL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS.png" group-title="台湾",華視
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9VbGxqQ01EcXVXVzVRSzZGWDBzNl84M3ZBZEpheEsxR2Y1VVVxY19fUXhsMmZsa3JWUi0zN2R5NU1JcE5aUEFTL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV.png" group-title="台湾",中視
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9wQkhsU1RjUGc4UnllVU5halI4ckpwdFR4ZGF4VE9sa3FPbGN4eFNNa1djVGVMbDFvazBFakZoSTZ5bVM4UUJTL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV3.png" group-title="台湾",民視台灣台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9XRTlXbkR1cGozSm9FR3VDaXhBTldQek1YcEVOQjhPWVNFNGx0UVRER29tOVFNRzYwZjlDSW9DUFNseUxDMXJiL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV2.png" group-title="台湾",民視第一台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9YRXc3cnJtSzg1TC16ajJiMFBFOXZZTlBkY0E5VUt1SlRKRmdMdEZmZUowaUxnMnIycXR1S1FsWnJNVUdPOGxxL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="台湾",龍華電影台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC84Y1JyNkE4cUN2RkIxMkxfc0RUZmJkb1dwS0FURlRNem1EMWZTc0tyQXM4dC12amxKaWl6Zm9vaW9nYTVUSmJoL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="台湾",龍華經典台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC94V0RFamo5QTBWVlZWU0s2ekczUWRRSHJLdkt1STZQUkRMeVRVQlN0MTB0ZV9odXp2YUtRTEJYSlV0bjZ0a1VmL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="台湾",龍華偶像台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC81ampsMXRQY19mcTdVNlJaeXpJdDVGZzViMWhQSGlZaFB4VDlxV0h5NUdPYm9kOURhdnROTjB5bkxBX0ZJVGNTL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="台湾",龍華日韓台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC95cjdTN1JCdThtTUNTN285TVNzUnlVYy1id3V6RkpEN1RXa01TZ1VpUzVUZ2hvMjdjOVA2bG5ETnRGWnExN2pFL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="台湾",龍華戲劇台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC91ZkU1Nkg4VHpoeHN4bWJFOVEzTlpnNGlYcHF1WHc2S2dKbFRHVDZSQnpoNWxHOHNNVDU2U1NKcGVGbXZpOE9QL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="台湾",龍華洋片台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC84cUZ5M05WeGpib0lJWFNtcmdwUElYSEFWVWYtc0hCVFJlbU8tRE9KclpidTdZQ1hHRlp1NU41ejVjbjJUaXl6L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="台湾",龍華卡通台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9BNGV1VXJSY0lPNm00M1hUdTluNGw0OXBfNFl6aVI5VG1uRnZ6bi1WOXJMUGZwU3hrLXptLUxoV2FkUTRSY3daL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Apple TV F1 4K (Not 24/7)" tvg-name="Apple TV F1 4K (Not 24/7)" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Apple_TV_logo.svg" group-title="F1",Apple TV F1 4K (Not 24/7)
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9SV2lPLXJhQmpmYVFtMWVDdTA1c0FtNUVMNzgzX1Nzd3ZXeUlkYWl6S1ZsM0NGM05Wd0pYbkdaSDF4RUxiS3dUL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="F1 TV (Not 24/7)" tvg-name="F1 TV (Not 24/7)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/f1-tv-int.png?raw=true" group-title="F1",F1 TV (Not 24/7)
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9HZVE5dEV4OVZWV181amtaRFE5SW1Nd0xVRWVpY3owT25XdHp6WGt4cVRBQ1p5bUJQbDhPeXZMSmpHMTJscFpxL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Sky Sport F1 DE" tvg-name="Sky Sport F1 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-f1-de.png?raw=true" group-title="F1",Sky Sport F1 DE
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC84TjhHMHZVN0hJc2c2MnAtc0xnUnZISzloUlQ4REpITTNsWms1UHVzVFo5RmU0S28tQnV3WVJYZ01BdFl6N2NCL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="DAZN F1 ES" tvg-name="DAZN F1 ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true" group-title="F1",DAZN F1 ES
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9IUW13VTltQ1pIWTI5RUlyRWRSMHUxVXJ0XzdDU1dCT1Bsbzc3U3NzalRxN2F6SmxlM2hmYnZWLU05YmhpVEF6L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now爆谷星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="港澳台",Now爆谷星影台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC82ZHg2S2IxUmpqenBlNEJQOGVybFpOUVlOQk5wR2YxeXJpYjBFeEtsa2g0TXRKNmRibWpoNkluUklYQ00xTDhfL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Now 爆谷台" tvg-name="Now 爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="港澳台",Now 爆谷台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC84ZGJSNUk2QXpLd01ZVjNmU09ZX1hnd3F5M2U1MDNvSVFUTzNuV2Y1VTQ4NnJQNEh6UXdNUG5IYTdrUXVLM29KL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Viu TV" tvg-name="Viu TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="港澳台",Viu TV
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC90Y0ZYa0NnZnpKS0hTWTZyOGNiTzREa01fNzZ3V1B5RlIwNTZLelk2NnFtV05la2xVcHlvekZ6dkFpV0NzT3RVL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122" group-title="港澳台",Now Sports 精選
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9sRHZzVjJqTmNTM0xhYjdQZjZqVk5kRTlCZGhSdVdkVmJGVG9fcFRvQkhFdDNTc1VVbmp0UlEwaGFsMG91bVZ0L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳台",HOYTV
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC90Q0pSb1kwcHNra2NBS1dET0JmUmsxRFM5dzcwR3RLb0hkR09RLU04NVpfMVhEU2dvSHFvRUtzMFhDUWdXZ1JIL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/109px-Now_Live_News_logo.svg.png" group-title="港澳台",Now直播台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9ZWHJTVDZVdE9nN0dXNVZ0VDNLa1d5bWNFVm56akE4WUs1NE5SbVJRbXBjT0lqd01tbjg4RnBTWlpNUjRDYWNZL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="港澳台",Now新闻台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9pNWwtN0VockZUNzZjVVBfdXplTFBiWlJOOVdNQUY5cnRQNXJ1c1JTWUNfUFYzMFd1d1RmMWhpbHdTRXZjS2NXL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/THRILL.png" group-title="港澳台",Thrill
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9MckJENmpXY1FpOGlKak9EMzEwLTFrX21NNWpYN3NucGxzYWxtYXd2VXRKbVVrWi1vMXpzUkhoVGY2YlRuV2ZBL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR..png" group-title="港澳台",Nick Jr.
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9OZXczLUxCNUdMMVp3UEdsT25SM1ZKWUQ2bHJpay1oUjhVdGtjREhZVG5oMmEyR3V0aVdCajBHMW1MZDk3VmZXL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKELODEON.png" group-title="港澳台",Nickelodeon
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9fVnI1TlBhSlFNSnZ2VGQzNjZXX05VSHFzb2ZHVmd5NzYtVVlmdzAyZk9PVThJS0tPNzhLNWlmZl9qTnQ0Z0ZBL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ZOOMOO.png" group-title="港澳台",ZooMoo
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9pRUkzNWxDYUt5dDNyZkVOZlpBVHVMYmwxY3E5Si1fWlVGZGNOMEN5SER0dEJPc2laUmZxX094NERtWVhSVjA2L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/戏曲.png" group-title="港澳台",戲曲台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9hM0g1clhqZk9KUFM3M0NTOXlacFhVaGpyakQxLVRHT2Nvel9KMHNRdy1UNUlEZWJuRTM4NEtsSk5WdEFZcllwL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="港澳台",娛樂新聞台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC83bjB1MXVicEhFY21TNHQtd3Mxc3dTRWdCblNvNEpoRHZQVE1IQ3U5a2szNURWdEVJUDROYzVjWkVDWGgteGpnL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黄金华剧.png" group-title="港澳台",黃金華劇台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9RWE1QXy1Kdk0xZmlmOVRCZEQ0MXNPWkVPMmRVaDV5ZDU1Q1VhbTBwTmtoWEswd1hzNVQyc1FoUnhEUjVCNFJ6L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="港澳台",千禧經典台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9BUUc2c3NlS3dESXltMXVfeTNxV0ROREdnYW04QkV5aWxLWElVejlzUjIzSzIzNGZpLUlxXzlyOHlpdC1IWXhfL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://tvlogo-282.pages.dev/logos/無綫新聞台.png" group-title="港澳台",無綫新聞台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC8tcTQyWmx1TW9FM21obVEtVVBiOExMal9hbDdwLUtKbm1aa0xQek53MDFiZlE1MFJfS0ZKOHl5d1lSbUtoUVdNL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="港澳台",PopC
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC91Wnc1SGJfR0EzWkpvNldsZUQ4QnBsTkFSY3hzcW9zczViaFJ3SVZRSnl6SkIxcklfcFNjRE5mRjlWSG1lYTgwL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="港澳台",美亞電影台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9za00yTjdwYXE4Zk9kcnpGN3hySzJoLUk3dmhWTGdLdTk4S0NBSUxwOEVxOHc5N3poQ1prSTkyeHhGM19hbmR5L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB15.png" group-title="港澳台",功夫台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9hNC1uUThIU0lJV2pFUUVZVUl6OHU4aDdWUUhTUno3Y1FRYWVBRTVwN20wdDBGZHR3TmI5UVBra2stYUFPb0ZmL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ERA2.png" group-title="港澳台",年代新闻
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9qRUdMMUxmdl81QmY3c29nVzdONHZlcU14dlM1cE5ncXJkN3BaRmR5WURFOTRuQ29KYmtuR3dDMXFsaHVjVHB5L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="星河頻道" tvg-name="星河頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" group-title="港澳台",星河頻道
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9XYmtNUFN1NEFubTRGZGRsQW52WmtUaHVZSlpoVVNTd0NfZDdMa0V2QlR5YmxmM0NlLUhTRUx4VXBkWllob0lQL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="Viu TV（地面波）" tvg-name="Viu TV（地面波）" group-title="港澳台",Viu TV（地面波）
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9UZTVtc2UtNXFJWUZKX0J1RVlKQ0xZeWdrRVh3Um9BMEZTdFR4OGxEVXoxcHZvWGxUV3pGLWhEeHBsU3N5cWhIL2luZGV4Lm0zdTg
+#EXTINF:-1 tvg-id="⚽ 雷科莱塔 vs 圣洛伦佐体育会 1-1 [原声68]" tvg-name="⚽ 雷科莱塔 vs 圣洛伦佐体育会 1-1 [原声68]" tvg-logo="https://cdn.sportnanoapi.com/football/team/f7e33bab2469f4e5b80d4d47cd92b381.png" group-title="巴拉甲",⚽ 雷科莱塔 vs 圣洛伦佐体育会 1-1 [原声68]
+https://pul-tenm.gkykp.com/live/sd-1-4462177.m3u8?txSecret=bb342e82f1d1e501dbcf8f854eddaac4&txTime=6A666F38
+#EXTINF:-1 tvg-id="⚽ 斯莱戈流浪者 vs 德罗赫达联 2-1 [原声4]" tvg-name="⚽ 斯莱戈流浪者 vs 德罗赫达联 2-1 [原声4]" tvg-logo="https://cdn.sportnanoapi.com/football/team/ce6e2cab757e6cf219ab9f59852e27e0.png" group-title="爱超",⚽ 斯莱戈流浪者 vs 德罗赫达联 2-1 [原声4]
+https://pul-tenm.gkykp.com/live/sd-1-4469078.m3u8?txSecret=3ad5876252d7657dad6b0702d9ab65f7&txTime=6A666F38
+#EXTINF:-1 tvg-id="⚽ 拉巴斯准备 vs 圣安东尼奥布鲁布鲁 1-1 [原声16]" tvg-name="⚽ 拉巴斯准备 vs 圣安东尼奥布鲁布鲁 1-1 [原声16]" tvg-logo="https://cdn.sportnanoapi.com/football/team/4f5b815aa7bca0be2a325494997ad29e.png" group-title="玻利甲",⚽ 拉巴斯准备 vs 圣安东尼奥布鲁布鲁 1-1 [原声16]
+https://pul-tenm.gkykp.com/live/sd-1-4543797.m3u8?txSecret=87a37bae392e93e598a10dc32966f29e&txTime=6A666F38
+#EXTINF:-1 tvg-id="⚽ 波尔图 vs 阿斯顿维拉 2-1 [原声166]" tvg-name="⚽ 波尔图 vs 阿斯顿维拉 2-1 [原声166]" tvg-logo="https://cdn.sportnanoapi.com/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png" group-title="球会友谊",⚽ 波尔图 vs 阿斯顿维拉 2-1 [原声166]
+https://pul-tenm.gkykp.com/live/sd-1-4593988.m3u8?txSecret=b9782c0c7723278cd0d3e59ec4c0d349&txTime=6A666F38
+#EXTINF:-1 tvg-id="⚽ 巴勃罗B队 vs 西恩夏诺 0-0 [原声29]" tvg-name="⚽ 巴勃罗B队 vs 西恩夏诺 0-0 [原声29]" tvg-logo="https://cdn.sportnanoapi.com/football/team/135610c6dd7e50332c14838339453b86.png" group-title="秘鲁甲",⚽ 巴勃罗B队 vs 西恩夏诺 0-0 [原声29]
+https://pul-tenm.gkykp.com/live/sd-1-4550649.m3u8?txSecret=951b4f2a6903977939aef26b49420783&txTime=6A666F38
+#EXTINF:-1 tvg-id="⚽ 拉费尔拿 vs 新芝加哥 1-0 [原声59]" tvg-name="⚽ 拉费尔拿 vs 新芝加哥 1-0 [原声59]" tvg-logo="https://cdn.sportnanoapi.com/football/team/109f72e810b7fdf166636650f0ed244a.png" group-title="阿乙",⚽ 拉费尔拿 vs 新芝加哥 1-0 [原声59]
+https://pul-tenm.gkykp.com/live/sd-1-4471279.m3u8?txSecret=60c0622d862b43a051b6ef910295bcfd&txTime=6A666F38
+#EXTINF:-1 tvg-id="⚽ 纽维尔老男孩 vs 塔勒瑞斯 0-0 [原声172]" tvg-name="⚽ 纽维尔老男孩 vs 塔勒瑞斯 0-0 [原声172]" tvg-logo="https://cdn.sportnanoapi.com/football/team/845eed665066a19144dad9f96e550b50.png" group-title="阿甲",⚽ 纽维尔老男孩 vs 塔勒瑞斯 0-0 [原声172]
+https://pul-tenm.gkykp.com/live/sd-1-4539635.m3u8?txSecret=d6bb199da47f8feddbb6880487d5cd3b&txTime=6A666F38
 #EXTINF:-1 tvg-id="HOY剧集台" tvg-name="HOY剧集台" group-title="港澳台",HOY剧集台
 https://iptv.aibo.lol/jd/hoyjj.m3u8
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" group-title="港澳台",美亚电影
