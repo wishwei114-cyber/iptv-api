@@ -573,10 +573,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=18
 http://iptv.4666888.xyz/iptv2A.php?id=1
 #EXTINF:-1 tvg-id="TntSports1" tvg-name="TntSports1" group-title="体育",TntSports1
 http://iptv.4666888.xyz/iptv2A.php?id=2
-#EXTINF:-1 tvg-id="beINSports1" tvg-name="beINSports1" group-title="体育",beINSports1
-http://iptv.4666888.xyz/iptv2A.php?id=3
-#EXTINF:-1 tvg-id="NowSports1" tvg-name="NowSports1" group-title="体育",NowSports1
-http://iptv.4666888.xyz/iptv2A.php?id=11
 #EXTINF:-1 tvg-id="SkysportsF1" tvg-name="SkysportsF1" group-title="F1",SkysportsF1
 http://iptv.4666888.xyz/iptv2A.php?id=4
 #EXTINF:-1 tvg-id="SkySportsFootball" tvg-name="SkySportsFootball" group-title="体育",SkySportsFootball
@@ -589,6 +585,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=10
 http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 tvg-id="TVB明珠" tvg-name="TVB明珠" group-title="港澳台",TVB明珠
 http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 tvg-id="TVB生活" tvg-name="TVB生活" group-title="港澳台",TVB生活
+http://iptv.4666888.xyz/iptv2A.php?id=11
 #EXTINF:-1 tvg-id="千禧經典" tvg-name="千禧經典" group-title="港澳台",千禧經典
 http://iptv.4666888.xyz/iptv2A.php?id=22
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" group-title="港澳台",HOY77
@@ -597,10 +595,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=35
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-id="TVB-金曲" tvg-name="TVB-金曲" group-title="港澳台",TVB-金曲
 http://iptv.4666888.xyz/iptv2A.php?id=17
-#EXTINF:-1 tvg-id="TVB娛樂新聞" tvg-name="TVB娛樂新聞" group-title="港澳台",TVB娛樂新聞
-http://iptv.4666888.xyz/iptv2A.php?id=36
-#EXTINF:-1 tvg-id="MYTV黃金翡翠" tvg-name="MYTV黃金翡翠" group-title="港澳台",MYTV黃金翡翠
-http://iptv.4666888.xyz/iptv2A.php?id=32
 #EXTINF:-1 tvg-id="TVB翡翠劇集" tvg-name="TVB翡翠劇集" group-title="港澳台",TVB翡翠劇集
 http://iptv.4666888.xyz/iptv2A.php?id=33
 #EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" group-title="港澳台",澳視澳門
@@ -611,8 +605,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=61
 http://iptv.4666888.xyz/iptv2A.php?id=20
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" group-title="台湾",TVBS新聞
 http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 tvg-id="鏡新聞" tvg-name="鏡新聞" group-title="台湾",鏡新聞
-http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" group-title="台湾",民視
 http://iptv.4666888.xyz/iptv2A.php?id=55
 #EXTINF:-1 tvg-id="華藝中文" tvg-name="華藝中文" group-title="台湾",華藝中文
@@ -649,32 +641,16 @@ http://iptv.4666888.xyz/iptv2A.php?id=46
 http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" group-title="台湾",TVBS精采
 http://iptv.4666888.xyz/iptv2A.php?id=47
-#EXTINF:-1 tvg-id="臺視綜合" tvg-name="臺視綜合" group-title="台湾",臺視綜合
-http://iptv.4666888.xyz/iptv2A.php?id=51
 #EXTINF:-1 tvg-id="TVBS台剧" tvg-name="TVBS台剧" group-title="台湾",TVBS台剧
 http://iptv.4666888.xyz/iptv2A.php?id=58
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" group-title="台湾",車迷TV
+http://iptv.4666888.xyz/iptv2A.php?id=63
 #EXTINF:-1 tvg-id="八度空間" tvg-name="八度空間" group-title="台湾",八度空間
 http://iptv.4666888.xyz/iptv2A.php?id=52
-#EXTINF:-1 tvg-id="韓流美食料理秀" tvg-name="韓流美食料理秀" group-title="台湾",韓流美食料理秀
-http://iptv.4666888.xyz/iptv2A.php?id=63
-#EXTINF:-1 tvg-id="娛樂百分百" tvg-name="娛樂百分百" group-title="台湾",娛樂百分百
-http://iptv.4666888.xyz/iptv2A.php?id=64
-#EXTINF:-1 tvg-id="綜藝大贏家" tvg-name="綜藝大贏家" group-title="台湾",綜藝大贏家
-http://iptv.4666888.xyz/iptv2A.php?id=65
-#EXTINF:-1 tvg-id="⚽ 雷科莱塔 vs 圣洛伦佐体育会 1-1 [原声68]" tvg-name="⚽ 雷科莱塔 vs 圣洛伦佐体育会 1-1 [原声68]" tvg-logo="https://cdn.sportnanoapi.com/football/team/f7e33bab2469f4e5b80d4d47cd92b381.png" group-title="巴拉甲",⚽ 雷科莱塔 vs 圣洛伦佐体育会 1-1 [原声68]
-https://pul-tenm.gkykp.com/live/sd-1-4462177.m3u8?txSecret=bb342e82f1d1e501dbcf8f854eddaac4&txTime=6A666F38
-#EXTINF:-1 tvg-id="⚽ 斯莱戈流浪者 vs 德罗赫达联 2-1 [原声4]" tvg-name="⚽ 斯莱戈流浪者 vs 德罗赫达联 2-1 [原声4]" tvg-logo="https://cdn.sportnanoapi.com/football/team/ce6e2cab757e6cf219ab9f59852e27e0.png" group-title="爱超",⚽ 斯莱戈流浪者 vs 德罗赫达联 2-1 [原声4]
-https://pul-tenm.gkykp.com/live/sd-1-4469078.m3u8?txSecret=3ad5876252d7657dad6b0702d9ab65f7&txTime=6A666F38
-#EXTINF:-1 tvg-id="⚽ 拉巴斯准备 vs 圣安东尼奥布鲁布鲁 1-1 [原声16]" tvg-name="⚽ 拉巴斯准备 vs 圣安东尼奥布鲁布鲁 1-1 [原声16]" tvg-logo="https://cdn.sportnanoapi.com/football/team/4f5b815aa7bca0be2a325494997ad29e.png" group-title="玻利甲",⚽ 拉巴斯准备 vs 圣安东尼奥布鲁布鲁 1-1 [原声16]
-https://pul-tenm.gkykp.com/live/sd-1-4543797.m3u8?txSecret=87a37bae392e93e598a10dc32966f29e&txTime=6A666F38
-#EXTINF:-1 tvg-id="⚽ 波尔图 vs 阿斯顿维拉 2-1 [原声166]" tvg-name="⚽ 波尔图 vs 阿斯顿维拉 2-1 [原声166]" tvg-logo="https://cdn.sportnanoapi.com/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png" group-title="球会友谊",⚽ 波尔图 vs 阿斯顿维拉 2-1 [原声166]
-https://pul-tenm.gkykp.com/live/sd-1-4593988.m3u8?txSecret=b9782c0c7723278cd0d3e59ec4c0d349&txTime=6A666F38
-#EXTINF:-1 tvg-id="⚽ 巴勃罗B队 vs 西恩夏诺 0-0 [原声29]" tvg-name="⚽ 巴勃罗B队 vs 西恩夏诺 0-0 [原声29]" tvg-logo="https://cdn.sportnanoapi.com/football/team/135610c6dd7e50332c14838339453b86.png" group-title="秘鲁甲",⚽ 巴勃罗B队 vs 西恩夏诺 0-0 [原声29]
-https://pul-tenm.gkykp.com/live/sd-1-4550649.m3u8?txSecret=951b4f2a6903977939aef26b49420783&txTime=6A666F38
-#EXTINF:-1 tvg-id="⚽ 拉费尔拿 vs 新芝加哥 1-0 [原声59]" tvg-name="⚽ 拉费尔拿 vs 新芝加哥 1-0 [原声59]" tvg-logo="https://cdn.sportnanoapi.com/football/team/109f72e810b7fdf166636650f0ed244a.png" group-title="阿乙",⚽ 拉费尔拿 vs 新芝加哥 1-0 [原声59]
-https://pul-tenm.gkykp.com/live/sd-1-4471279.m3u8?txSecret=60c0622d862b43a051b6ef910295bcfd&txTime=6A666F38
-#EXTINF:-1 tvg-id="⚽ 纽维尔老男孩 vs 塔勒瑞斯 0-0 [原声172]" tvg-name="⚽ 纽维尔老男孩 vs 塔勒瑞斯 0-0 [原声172]" tvg-logo="https://cdn.sportnanoapi.com/football/team/845eed665066a19144dad9f96e550b50.png" group-title="阿甲",⚽ 纽维尔老男孩 vs 塔勒瑞斯 0-0 [原声172]
-https://pul-tenm.gkykp.com/live/sd-1-4539635.m3u8?txSecret=d6bb199da47f8feddbb6880487d5cd3b&txTime=6A666F38
+#EXTINF:-1 tvg-id="⚽ 艾格尔 vs 嘉德维克 0-1 [原声84]" tvg-name="⚽ 艾格尔 vs 嘉德维克 0-1 [原声84]" tvg-logo="https://cdn.sportnanoapi.com/football/team/81d701ef655d00100824877d9d5c6c5f.png" group-title="冰岛甲",⚽ 艾格尔 vs 嘉德维克 0-1 [原声84]
+https://pul-tenm.gkykp.com/live/sd-1-4486415.m3u8?txSecret=5dbd64eb5fc797ef7eeb6551f049918d&txTime=6A6A6AC0
+#EXTINF:-1 tvg-id="⚽ 海地U20 vs 古巴U20 0-0 [原声94]" tvg-name="⚽ 海地U20 vs 古巴U20 0-0 [原声94]" tvg-logo="https://cdn.sportnanoapi.com/football/team/087bc7552322045ad94868390dce5b37.png" group-title="美青杯",⚽ 海地U20 vs 古巴U20 0-0 [原声94]
+https://pul-tenm.gkykp.com/live/sd-1-4589443.m3u8?txSecret=db58927b5028bd1ba61a2e65c4de7229&txTime=6A6A6AC0
 #EXTINF:-1 tvg-id="HOY剧集台" tvg-name="HOY剧集台" group-title="港澳台",HOY剧集台
 https://iptv.aibo.lol/jd/hoyjj.m3u8
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" group-title="港澳台",美亚电影
