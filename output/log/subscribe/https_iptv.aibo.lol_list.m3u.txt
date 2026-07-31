@@ -647,10 +647,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=58
 http://iptv.4666888.xyz/iptv2A.php?id=63
 #EXTINF:-1 tvg-id="八度空間" tvg-name="八度空間" group-title="台湾",八度空間
 http://iptv.4666888.xyz/iptv2A.php?id=52
-#EXTINF:-1 tvg-id="⚽ 艾格尔 vs 嘉德维克 0-1 [原声84]" tvg-name="⚽ 艾格尔 vs 嘉德维克 0-1 [原声84]" tvg-logo="https://cdn.sportnanoapi.com/football/team/81d701ef655d00100824877d9d5c6c5f.png" group-title="冰岛甲",⚽ 艾格尔 vs 嘉德维克 0-1 [原声84]
-https://pul-tenm.gkykp.com/live/sd-1-4486415.m3u8?txSecret=5dbd64eb5fc797ef7eeb6551f049918d&txTime=6A6A6AC0
-#EXTINF:-1 tvg-id="⚽ 海地U20 vs 古巴U20 0-0 [原声94]" tvg-name="⚽ 海地U20 vs 古巴U20 0-0 [原声94]" tvg-logo="https://cdn.sportnanoapi.com/football/team/087bc7552322045ad94868390dce5b37.png" group-title="美青杯",⚽ 海地U20 vs 古巴U20 0-0 [原声94]
-https://pul-tenm.gkykp.com/live/sd-1-4589443.m3u8?txSecret=db58927b5028bd1ba61a2e65c4de7229&txTime=6A6A6AC0
 #EXTINF:-1 tvg-id="HOY剧集台" tvg-name="HOY剧集台" group-title="港澳台",HOY剧集台
 https://iptv.aibo.lol/jd/hoyjj.m3u8
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" group-title="港澳台",美亚电影
