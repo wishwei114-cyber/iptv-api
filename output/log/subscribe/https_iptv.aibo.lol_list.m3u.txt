@@ -216,7 +216,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=19
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="港澳台",凤凰中文
 https://iptv.aibo.lol/qd/fhzw.m3u8
 #EXTINF:-1 tvg-id="CCTV1港澳版" tvg-name="CCTV1港澳版" group-title="港澳台",CCTV1港澳版
-https://cdn.qd.je/163189/cctv1
+https://cdn.qd.je/163189/rthk33
 #EXTINF:-1 tvg-id="CCTV1港澳版" tvg-name="CCTV1港澳版" group-title="港澳台",CCTV1港澳版
 https://iptv.aibo.lol/jd/rthk33.m3u8
 #EXTINF:-1 tvg-id="TVB Plus(字幕)" tvg-name="TVB Plus(字幕)" group-title="港澳台",TVB Plus(字幕)
