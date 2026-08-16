@@ -109,16 +109,10 @@ https://iptv.aibo.lol/live/jiangsuws.m3u8
 https://iptv.aibo.lol/live/dongfangws.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/浙江卫视.png" group-title="卫视",浙江卫视
 https://iptv.aibo.lol/live/zhejiangws.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://iptv.4666888.xyz/iptv2A.php?id=14
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/湖南卫视.png" group-title="卫视",湖南卫视
 https://iptv.aibo.lol/live/hunanws.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://iptv.4666888.xyz/iptv2A.php?id=13
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/湖北卫视.png" group-title="卫视",湖北卫视
 https://iptv.aibo.lol/live/hubeiws.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://iptv.4666888.xyz/iptv2A.php?id=15
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 https://iptv.aibo.lol/live/liaoningws.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/安徽卫视.png" group-title="卫视",安徽卫视
@@ -330,9 +324,13 @@ https://iptv.aibo.lol/jd/tvbxw.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="卫视",广东珠江
 https://cdn.qd.je/163189/gdzj
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="卫视",广东珠江
+http://iptv.4666888.xyz/iptv2A.php?id=7
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="卫视",广东珠江
 https://iptv.aibo.lol/qd/gdzj.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="卫视",广东体育
 https://cdn.qd.je/163189/gdty
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="卫视",广东体育
+http://iptv.4666888.xyz/iptv2A.php?id=8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="卫视",广东体育
 https://iptv.aibo.lol/qd/gdty.m3u8
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" group-title="港澳台",八度空间
@@ -559,26 +557,12 @@ https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 #EXTINF:-1 tvg-id="Concerto" tvg-name="Concerto" tvg-logo="https://php.946985.filegear-sg.me/logo/Concerto.png" group-title="港澳台",Concerto
 https://php.946985.filegear-sg.me/mytv265.php?id=CONC
-#EXTINF:-1 tvg-id="CCTV1綜合" tvg-name="CCTV1綜合" group-title="卫视",CCTV1綜合
-http://iptv.4666888.xyz/iptv2A.php?id=7
-#EXTINF:-1 tvg-id="CCTV2財經" tvg-name="CCTV2財經" group-title="卫视",CCTV2財經
-http://iptv.4666888.xyz/iptv2A.php?id=8
-#EXTINF:-1 tvg-id="CCTV3綜藝" tvg-name="CCTV3綜藝" group-title="卫视",CCTV3綜藝
-http://iptv.4666888.xyz/iptv2A.php?id=9
-#EXTINF:-1 tvg-id="CCTV14少兒" tvg-name="CCTV14少兒" group-title="卫视",CCTV14少兒
-http://iptv.4666888.xyz/iptv2A.php?id=12
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
-http://iptv.4666888.xyz/iptv2A.php?id=18
-#EXTINF:-1 tvg-id="FightSports" tvg-name="FightSports" group-title="体育",FightSports
-http://iptv.4666888.xyz/iptv2A.php?id=1
 #EXTINF:-1 tvg-id="TntSports1" tvg-name="TntSports1" group-title="体育",TntSports1
 http://iptv.4666888.xyz/iptv2A.php?id=2
 #EXTINF:-1 tvg-id="SkysportsF1" tvg-name="SkysportsF1" group-title="F1",SkysportsF1
 http://iptv.4666888.xyz/iptv2A.php?id=4
 #EXTINF:-1 tvg-id="SkySportsFootball" tvg-name="SkySportsFootball" group-title="体育",SkySportsFootball
 http://iptv.4666888.xyz/iptv2A.php?id=5
-#EXTINF:-1 tvg-id="SkyTennis+" tvg-name="SkyTennis+" group-title="体育",SkyTennis+
-http://iptv.4666888.xyz/iptv2A.php?id=6
 #EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" group-title="体育",博斯高球1
 http://iptv.4666888.xyz/iptv2A.php?id=10
 #EXTINF:-1 tvg-id="TVB黃金華劇" tvg-name="TVB黃金華劇" group-title="港澳台",TVB黃金華劇
