@@ -563,6 +563,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=2
 http://iptv.4666888.xyz/iptv2A.php?id=4
 #EXTINF:-1 tvg-id="SkySportsFootball" tvg-name="SkySportsFootball" group-title="体育",SkySportsFootball
 http://iptv.4666888.xyz/iptv2A.php?id=5
+#EXTINF:-1 tvg-id="SkyTennis+" tvg-name="SkyTennis+" group-title="体育",SkyTennis+
+http://iptv.4666888.xyz/iptv2A.php?id=6
 #EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" group-title="体育",博斯高球1
 http://iptv.4666888.xyz/iptv2A.php?id=10
 #EXTINF:-1 tvg-id="TVB黃金華劇" tvg-name="TVB黃金華劇" group-title="港澳台",TVB黃金華劇
@@ -631,6 +633,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=58
 http://iptv.4666888.xyz/iptv2A.php?id=63
 #EXTINF:-1 tvg-id="八度空間" tvg-name="八度空間" group-title="台湾",八度空間
 http://iptv.4666888.xyz/iptv2A.php?id=52
+#EXTINF:-1 tvg-id="娛樂百分百" tvg-name="娛樂百分百" group-title="台湾",娛樂百分百
+http://iptv.4666888.xyz/iptv2A.php?id=64
+#EXTINF:-1 tvg-id="綜藝大贏家" tvg-name="綜藝大贏家" group-title="台湾",綜藝大贏家
+http://iptv.4666888.xyz/iptv2A.php?id=65
 #EXTINF:-1 tvg-id="HOY剧集台" tvg-name="HOY剧集台" group-title="港澳台",HOY剧集台
 https://iptv.aibo.lol/jd/hoyjj.m3u8
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" group-title="港澳台",美亚电影
